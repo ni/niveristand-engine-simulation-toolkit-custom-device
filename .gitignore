@@ -15,6 +15,9 @@
 *.aliases
 *.lvlps
 
+# Built directory
+/Built
+
 # =========================
 # Operating System Files
 # =========================
@@ -27,7 +30,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
