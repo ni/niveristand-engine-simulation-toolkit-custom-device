@@ -238,6 +238,7 @@
 			<Item Name="Get Available IP List.vi" Type="VI" URL="../Get Available IP List.vi"/>
 			<Item Name="Get Bitfile Version.vi" Type="VI" URL="../Get Bitfile Version.vi"/>
 			<Item Name="Hide_Show Controls.vi" Type="VI" URL="../Hide_Show Controls.vi"/>
+			<Item Name="Load Bitfile.vi" Type="VI" URL="../Load Bitfile.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
