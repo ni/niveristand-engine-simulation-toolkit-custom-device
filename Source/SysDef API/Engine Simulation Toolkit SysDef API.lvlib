@@ -13,6 +13,7 @@
 		</Item>
 	</Item>
 	<Item Name="Create Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Create Engine Simulation Toolkit Custom Device.vi"/>
+	<Item Name="Delete Analog Replay.vi" Type="VI" URL="../Delete Analog Replay.vi"/>
 	<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Engine Simulation Toolkit Custom Device Settings.ctl"/>
 	<Item Name="Get APU.vi" Type="VI" URL="../Get APU.vi"/>
 </Library>
