@@ -274,4 +274,5 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
+	<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 </Library>
