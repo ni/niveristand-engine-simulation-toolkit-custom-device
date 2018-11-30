@@ -27,6 +27,7 @@
 		<Item Name="Custom Device Engine Simulation Toolkit.xml" Type="Document" URL="../Custom Device Engine Simulation Toolkit.xml"/>
 		<Item Name="Engine Simulation Toolkit Engine.lvlib" Type="Library" URL="../Engine/Engine Simulation Toolkit Engine.lvlib"/>
 		<Item Name="Engine Simulation Toolkit Shared.lvlib" Type="Library" URL="../Shared/Engine Simulation Toolkit Shared.lvlib"/>
+		<Item Name="Engine Simulation Toolkit SysDef API.lvlib" Type="Library" URL="../SysDef API/Engine Simulation Toolkit SysDef API.lvlib"/>
 		<Item Name="Engine Simulation Toolkit System Explorer.lvlib" Type="Library" URL="../System Explorer/Engine Simulation Toolkit System Explorer.lvlib"/>
 		<Item Name="File Formats.lvlibp" Type="LVLibp" URL="../File Formats.lvlibp">
 			<Item Name="FileFormat.lvclass" Type="LVClass" URL="../File Formats.lvlibp/Parent/FileFormat.lvclass"/>
@@ -289,6 +290,7 @@
 				<Item Name="_sortStorageFormat.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/utility/_sortStorageFormat.vi"/>
 				<Item Name="_stringsToBeTranslated.ctl" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/lvStorage.llb/_stringsToBeTranslated.ctl"/>
 				<Item Name="_TDM_DATA_MODEL.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/storage/Storage.llb/_TDM_DATA_MODEL.vi"/>
+				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
