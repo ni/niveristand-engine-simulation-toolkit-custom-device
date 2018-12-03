@@ -27,6 +27,7 @@
 	<Item Name="Custom Device" Type="Folder">
 		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Add Engine Simulation Toolkit Custom Device.vi"/>
 		<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Engine Simulation Toolkit Custom Device Settings.ctl"/>
+		<Item Name="Find Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Find Engine Simulation Toolkit Custom Device.vi"/>
 		<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Remove Engine Simulation Toolkit Custom Device.vi"/>
 	</Item>
 </Library>
