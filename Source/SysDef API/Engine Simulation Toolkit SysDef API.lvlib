@@ -8,16 +8,16 @@
 		<Item Name="Add Analog Replay.vi" Type="VI" URL="../Add Analog Replay.vi"/>
 		<Item Name="Analog Replay Data Options.ctl" Type="VI" URL="../Analog Replay Data Options.ctl"/>
 		<Item Name="Analog Replay Settings.ctl" Type="VI" URL="../Analog Replay Settings.ctl"/>
-		<Item Name="Delete Analog Replay.vi" Type="VI" URL="../Delete Analog Replay.vi"/>
 		<Item Name="Find Analog Replay.vi" Type="VI" URL="../Find Analog Replay.vi"/>
 		<Item Name="Get Analog Replay Settings.vi" Type="VI" URL="../Get Analog Replay Settings.vi"/>
+		<Item Name="Remove Analog Replay.vi" Type="VI" URL="../Remove Analog Replay.vi"/>
 		<Item Name="Set Analog Replay Settings.vi" Type="VI" URL="../Set Analog Replay Settings.vi"/>
 		<Item Name="Verify Analog Replay Settings.vi" Type="VI" URL="../Verify Analog Replay Settings.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 	</Item>
 	<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Add Engine Simulation Toolkit Custom Device.vi"/>
-	<Item Name="Delete Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Delete Engine Simulation Toolkit Custom Device.vi"/>
 	<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Engine Simulation Toolkit Custom Device Settings.ctl"/>
 	<Item Name="Find APU.vi" Type="VI" URL="../Find APU.vi"/>
+	<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Remove Engine Simulation Toolkit Custom Device.vi"/>
 </Library>
