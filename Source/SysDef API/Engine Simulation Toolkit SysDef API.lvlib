@@ -16,8 +16,17 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 	</Item>
-	<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Add Engine Simulation Toolkit Custom Device.vi"/>
-	<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Engine Simulation Toolkit Custom Device Settings.ctl"/>
-	<Item Name="Find APU.vi" Type="VI" URL="../Find APU.vi"/>
-	<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Remove Engine Simulation Toolkit Custom Device.vi"/>
+	<Item Name="APU" Type="Folder">
+		<Item Name="Add APU.vi" Type="VI" URL="../Add APU.vi"/>
+		<Item Name="APU Settings.ctl" Type="VI" URL="../APU Settings.ctl"/>
+		<Item Name="Find APU.vi" Type="VI" URL="../Find APU.vi"/>
+		<Item Name="Get APU.vi" Type="VI" URL="../Get APU.vi"/>
+		<Item Name="Remove APU.vi" Type="VI" URL="../Remove APU.vi"/>
+		<Item Name="Set APU.vi" Type="VI" URL="../Set APU.vi"/>
+	</Item>
+	<Item Name="Custom Device" Type="Folder">
+		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Add Engine Simulation Toolkit Custom Device.vi"/>
+		<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Engine Simulation Toolkit Custom Device Settings.ctl"/>
+		<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Remove Engine Simulation Toolkit Custom Device.vi"/>
+	</Item>
 </Library>
