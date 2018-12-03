@@ -41,6 +41,8 @@
 				<Item Name="Get EST Lib Version from Bitfile.vi" Type="VI" URL="../Get EST Lib Version from Bitfile.vi"/>
 				<Item Name="Parse Bitfile EST Clusters.vi" Type="VI" URL="../Parse Bitfile EST Clusters.vi"/>
 				<Item Name="Parse EST Clusters into EST IP.vi" Type="VI" URL="../Parse EST Clusters into EST IP.vi"/>
+				<Item Name="String Array Property.ctl" Type="VI" URL="../String Array Property.ctl"/>
+				<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 			</Item>
 			<Item Name="Parse Bitfile for EST IP.vi" Type="VI" URL="../Parse Bitfile for EST IP.vi"/>
 		</Item>
@@ -274,5 +276,4 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
-	<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 </Library>
