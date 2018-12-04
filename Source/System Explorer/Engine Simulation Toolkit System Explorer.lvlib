@@ -41,6 +41,8 @@
 				<Item Name="Get EST Lib Version from Bitfile.vi" Type="VI" URL="../Get EST Lib Version from Bitfile.vi"/>
 				<Item Name="Parse Bitfile EST Clusters.vi" Type="VI" URL="../Parse Bitfile EST Clusters.vi"/>
 				<Item Name="Parse EST Clusters into EST IP.vi" Type="VI" URL="../Parse EST Clusters into EST IP.vi"/>
+				<Item Name="String Array Property.ctl" Type="VI" URL="../String Array Property.ctl"/>
+				<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 			</Item>
 			<Item Name="Parse Bitfile for EST IP.vi" Type="VI" URL="../Parse Bitfile for EST IP.vi"/>
 		</Item>
@@ -131,6 +133,8 @@
 				<Item Name="Directional Speed Sensors Page.vi" Type="VI" URL="../Directional Speed Sensors Page.vi"/>
 				<Item Name="Knock Sensor Page.vi" Type="VI" URL="../Knock Sensor Page.vi"/>
 				<Item Name="Knock Sensors Page.vi" Type="VI" URL="../Knock Sensors Page.vi"/>
+				<Item Name="Main Page - Multi FPGA.vi" Type="VI" URL="../Main Page - Multi FPGA.vi"/>
+				<Item Name="Main Page Wrapper.vi" Type="VI" URL="../Main Page Wrapper.vi"/>
 				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
 				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
@@ -230,6 +234,7 @@
 				<Item Name="LogSort_Stack.vi" Type="VI" URL="../String Sort/LogSort_Stack.vi"/>
 				<Item Name="LogSort_StackHandler.vi" Type="VI" URL="../String Sort/LogSort_StackHandler.vi"/>
 			</Item>
+			<Item Name="Check Feature Toggle.vi" Type="VI" URL="../Check Feature Toggle.vi"/>
 			<Item Name="Clear Entire Configuration.vi" Type="VI" URL="../Clear Entire Configuration.vi"/>
 			<Item Name="Create Chans.vi" Type="VI" URL="../Create Chans.vi"/>
 			<Item Name="Create listbox IP text.vi" Type="VI" URL="../Create listbox IP text.vi"/>
@@ -273,5 +278,4 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
-	<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 </Library>
