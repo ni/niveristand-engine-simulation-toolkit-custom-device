@@ -75,7 +75,7 @@
 		</Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-		<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Main Page.vi</Path>
+		<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Main Page Wrapper.vi</Path>
       </Item2Launch>
 	  <RunTimeMenu>
 		<MenuItem>
@@ -152,7 +152,7 @@
 		</Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-		<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Main Page.vi</Path>
+		<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Main Page Wrapper.vi</Path>
       </Item2Launch>
 	  <RunTimeMenu>
 		<MenuItem>
