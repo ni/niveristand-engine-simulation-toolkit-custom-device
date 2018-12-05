@@ -281,4 +281,5 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
+	<Item Name="Compile Feature Toggles.vi" Type="VI" URL="../Compile Feature Toggles.vi"/>
 </Library>
