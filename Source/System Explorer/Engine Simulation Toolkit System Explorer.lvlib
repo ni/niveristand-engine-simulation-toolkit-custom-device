@@ -122,6 +122,7 @@
 			<Item Name="Get Channel Data in Section.vi" Type="VI" URL="../Get Channel Data in Section.vi"/>
 			<Item Name="Rotations in cycle to scaling values.vi" Type="VI" URL="../Rotations in cycle to scaling values.vi"/>
 			<Item Name="Time in ms to Counter Value.vi" Type="VI" URL="../Time in ms to Counter Value.vi"/>
+			<Item Name="Compile Feature Toggles.vi" Type="VI" URL="../Compile Feature Toggles.vi"/>
 		</Item>
 		<Item Name="Dynamically Called" Type="Folder">
 			<Item Name="Pages" Type="Folder">
@@ -281,5 +282,4 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
-	<Item Name="Compile Feature Toggles.vi" Type="VI" URL="../Compile Feature Toggles.vi"/>
 </Library>
