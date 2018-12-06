@@ -247,6 +247,12 @@
 			<Item Name="Hide_Show Controls.vi" Type="VI" URL="../Hide_Show Controls.vi"/>
 			<Item Name="Feature Toggle Page.vi" Type="VI" URL="../Feature Toggle Page.vi"/>
 			<Item Name="Host Page In Panel.vi" Type="VI" URL="../Host Page In Panel.vi"/>
+			<Item Name="Add Bitfile Dialog.vi" Type="VI" URL="../Add Bitfile Dialog.vi"/>
+			<Item Name="Enable Disable Bitfile Buttons.vi" Type="VI" URL="../Enable Disable Bitfile Buttons.vi"/>
+			<Item Name="Set Bitfile Path.vi" Type="VI" URL="../Set Bitfile Path.vi"/>
+			<Item Name="Get Bitfile Property Name.vi" Type="VI" URL="../Get Bitfile Property Name.vi"/>
+			<Item Name="Bold Row.vi" Type="VI" URL="../Bold Row.vi"/>
+			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
