@@ -253,6 +253,7 @@
 			<Item Name="Get Bitfile Property Name.vi" Type="VI" URL="../Get Bitfile Property Name.vi"/>
 			<Item Name="Bold Row.vi" Type="VI" URL="../Bold Row.vi"/>
 			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
+			<Item Name="Verify Bitfile Selection.vi" Type="VI" URL="../Verify Bitfile Selection.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
