@@ -292,4 +292,7 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
+	<Item Name="Create listbox IP text - Multi FPGA.vi" Type="VI" URL="../Create listbox IP text - Multi FPGA.vi"/>
+	<Item Name="Create RIO APU Mapping.vi" Type="VI" URL="../Create RIO APU Mapping.vi"/>
+	<Item Name="Get RIO to APU Property Name.vi" Type="VI" URL="../Get RIO to APU Property Name.vi"/>
 </Library>
