@@ -138,6 +138,7 @@
 				<Item Name="Main Page - Multi FPGA.vi" Type="VI" URL="../Main Page - Multi FPGA.vi"/>
 				<Item Name="Main Page Wrapper.vi" Type="VI" URL="../Main Page Wrapper.vi"/>
 				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
+				<Item Name="RIO Page.vi" Type="VI" URL="../RIO Page.vi"/>
 				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
 				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
 			</Item>
@@ -179,6 +180,7 @@
 			</Item>
 			<Item Name="APU" Type="Folder">
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
+				<Item Name="Create APU Tree Layout - Multi FPGA.vi" Type="VI" URL="../Create APU Tree Layout - Multi FPGA.vi"/>
 				<Item Name="Get APU Characteristics.vi" Type="VI" URL="../Get APU Characteristics.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
@@ -238,6 +240,7 @@
 			</Item>
 			<Item Name="Check Feature Toggle.vi" Type="VI" URL="../Check Feature Toggle.vi"/>
 			<Item Name="Clear Entire Configuration.vi" Type="VI" URL="../Clear Entire Configuration.vi"/>
+			<Item Name="Clear Entire Configuration - Multi FPGA.vi" Type="VI" URL="../Clear Entire Configuration - Multi FPGA.vi"/>
 			<Item Name="Create Chans.vi" Type="VI" URL="../Create Chans.vi"/>
 			<Item Name="Create listbox IP text.vi" Type="VI" URL="../Create listbox IP text.vi"/>
 			<Item Name="Enable Disable Add Remove buttons.vi" Type="VI" URL="../Enable Disable Add Remove buttons.vi"/>

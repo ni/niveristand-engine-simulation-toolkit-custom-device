@@ -590,6 +590,22 @@
 			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Directional Speed Sensor Page.vi</Path>
 		</Item2Launch>
 	</Page>
+	<Page>
+		<Name>
+			<eng>RIO</eng>
+			<loc>RIO</loc>
+		</Name>
+		<Copy>Copy</Copy>
+		<GUID>2F8959F9-157E-42DF-9C28-D393516A36BB</GUID>
+		<Glyph>
+			<Type>To Common Doc Dir</Type>
+			<Path>Custom Devices\Engine Simulation Toolkit\Data\engine.png</Path>
+		</Glyph>
+		<Item2Launch>
+			<Type>To Common Doc Dir</Type>
+			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\RIO Page.vi</Path>
+		</Item2Launch>
+	</Page>
     
   </Pages>
   <CustomXML>
