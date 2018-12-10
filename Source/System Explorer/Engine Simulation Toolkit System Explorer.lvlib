@@ -184,6 +184,8 @@
 				<Item Name="Init File Load Dialog Data.vi" Type="VI" URL="../Init File Load Dialog Data.vi"/>
 				<Item Name="Memory Size Enum to Numeric.vi" Type="VI" URL="../Memory Size Enum to Numeric.vi"/>
 				<Item Name="Save File Load Dialog Data.vi" Type="VI" URL="../Save File Load Dialog Data.vi"/>
+				<Item Name="Get RIO and Analog Replay Strings.vi" Type="VI" URL="../Get RIO and Analog Replay Strings.vi"/>
+				<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
 			</Item>
 			<Item Name="APU" Type="Folder">
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
@@ -265,10 +267,10 @@
 			<Item Name="Bold Row.vi" Type="VI" URL="../Bold Row.vi"/>
 			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
 			<Item Name="Verify Bitfile Selection.vi" Type="VI" URL="../Verify Bitfile Selection.vi"/>
-			<Item Name="Create listbox IP text - Multi FPGA.vi" Type="VI" URL="../Create listbox IP text - Multi FPGA.vi"/>
+			<Item Name="Create APU Listbox IP Text.vi" Type="VI" URL="../Create APU Listbox IP Text.vi"/>
 			<Item Name="Get Analog Replays List.vi" Type="VI" URL="../Get Analog Replays List.vi"/>
 			<Item Name="Get APU List.vi" Type="VI" URL="../Get APU List.vi"/>
-			<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
+			<Item Name="Get RIOs for APU.vi" Type="VI" URL="../Get RIOs for APU.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
