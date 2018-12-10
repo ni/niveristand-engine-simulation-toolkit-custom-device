@@ -128,6 +128,8 @@
 			<Item Name="Pages" Type="Folder">
 				<Item Name="Analog Replay Page.vi" Type="VI" URL="../Analog Replay Page.vi"/>
 				<Item Name="Analog Replays Page.vi" Type="VI" URL="../Analog Replays Page.vi"/>
+				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
+				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
 				<Item Name="APU Page.vi" Type="VI" URL="../APU Page.vi"/>
 				<Item Name="Digital Pattern Page.vi" Type="VI" URL="../Digital Pattern Page.vi"/>
 				<Item Name="Digital Patterns Page.vi" Type="VI" URL="../Digital Patterns Page.vi"/>
