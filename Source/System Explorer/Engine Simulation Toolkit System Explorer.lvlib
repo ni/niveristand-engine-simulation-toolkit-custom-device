@@ -182,6 +182,8 @@
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
 				<Item Name="Create APU Tree Layout - Multi FPGA.vi" Type="VI" URL="../Create APU Tree Layout - Multi FPGA.vi"/>
 				<Item Name="Get APU Characteristics.vi" Type="VI" URL="../Get APU Characteristics.vi"/>
+				<Item Name="Get RIO to APU Property Name.vi" Type="VI" URL="../Get RIO to APU Property Name.vi"/>
+				<Item Name="Create RIO APU Mapping.vi" Type="VI" URL="../Create RIO APU Mapping.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
 				<Item Name="Add Digital Pattern.vi" Type="VI" URL="../Add Digital Pattern.vi"/>
@@ -257,6 +259,8 @@
 			<Item Name="Bold Row.vi" Type="VI" URL="../Bold Row.vi"/>
 			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
 			<Item Name="Verify Bitfile Selection.vi" Type="VI" URL="../Verify Bitfile Selection.vi"/>
+			<Item Name="Create listbox IP text - Multi FPGA.vi" Type="VI" URL="../Create listbox IP text - Multi FPGA.vi"/>
+			<Item Name="Get Available IP List - Multi FPGA.vi" Type="VI" URL="../Get Available IP List - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
@@ -292,8 +296,4 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
-	<Item Name="Create listbox IP text - Multi FPGA.vi" Type="VI" URL="../Create listbox IP text - Multi FPGA.vi"/>
-	<Item Name="Create RIO APU Mapping.vi" Type="VI" URL="../Create RIO APU Mapping.vi"/>
-	<Item Name="Get RIO to APU Property Name.vi" Type="VI" URL="../Get RIO to APU Property Name.vi"/>
-	<Item Name="Get Available IP List - Multi FPGA.vi" Type="VI" URL="../Get Available IP List - Multi FPGA.vi"/>
 </Library>
