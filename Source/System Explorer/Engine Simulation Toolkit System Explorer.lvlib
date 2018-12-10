@@ -37,7 +37,6 @@
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Bitfile Parsing" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
-				<Item Name="Parse Bitfile for EST IP - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile for EST IP - Multi FPGA.vi"/>
 				<Item Name="Parse Bitfile EST Clusters - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile EST Clusters - Multi FPGA.vi"/>
 				<Item Name="Parse EST Clusters into EST IP - Multi FPGA.vi" Type="VI" URL="../Parse EST Clusters into EST IP - Multi FPGA.vi"/>
 				<Item Name="Bitfile EST Interfaces.vi" Type="VI" URL="../Bitfile EST Interfaces.vi"/>
@@ -49,6 +48,7 @@
 				<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 			</Item>
 			<Item Name="Parse Bitfile for EST IP.vi" Type="VI" URL="../Parse Bitfile for EST IP.vi"/>
+			<Item Name="Parse Bitfile for EST IP - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile for EST IP - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Compile" Type="Folder">
 			<Item Name="Analog Replay" Type="Folder">
