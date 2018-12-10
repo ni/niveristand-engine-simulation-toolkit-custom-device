@@ -37,6 +37,9 @@
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Bitfile Parsing" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
+				<Item Name="Parse Bitfile for EST IP - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile for EST IP - Multi FPGA.vi"/>
+				<Item Name="Parse Bitfile EST Clusters - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile EST Clusters - Multi FPGA.vi"/>
+				<Item Name="Parse EST Clusters into EST IP - Multi FPGA.vi" Type="VI" URL="../Parse EST Clusters into EST IP - Multi FPGA.vi"/>
 				<Item Name="Bitfile EST Interfaces.vi" Type="VI" URL="../Bitfile EST Interfaces.vi"/>
 				<Item Name="EST Version string to Enum.vi" Type="VI" URL="../EST Version string to Enum.vi"/>
 				<Item Name="Get EST Lib Version from Bitfile.vi" Type="VI" URL="../Get EST Lib Version from Bitfile.vi"/>
@@ -187,7 +190,6 @@
 				<Item Name="Create APU Tree Layout - Multi FPGA.vi" Type="VI" URL="../Create APU Tree Layout - Multi FPGA.vi"/>
 				<Item Name="Get APU Characteristics.vi" Type="VI" URL="../Get APU Characteristics.vi"/>
 				<Item Name="Get RIO to APU Property Name.vi" Type="VI" URL="../Get RIO to APU Property Name.vi"/>
-				<Item Name="Create RIO APU Mapping.vi" Type="VI" URL="../Create RIO APU Mapping.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
 				<Item Name="Add Digital Pattern.vi" Type="VI" URL="../Add Digital Pattern.vi"/>
@@ -264,7 +266,9 @@
 			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
 			<Item Name="Verify Bitfile Selection.vi" Type="VI" URL="../Verify Bitfile Selection.vi"/>
 			<Item Name="Create listbox IP text - Multi FPGA.vi" Type="VI" URL="../Create listbox IP text - Multi FPGA.vi"/>
-			<Item Name="Get Available IP List - Multi FPGA.vi" Type="VI" URL="../Get Available IP List - Multi FPGA.vi"/>
+			<Item Name="Get Analog Replays List.vi" Type="VI" URL="../Get Analog Replays List.vi"/>
+			<Item Name="Get APU List.vi" Type="VI" URL="../Get APU List.vi"/>
+			<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
