@@ -127,6 +127,8 @@
 		<Item Name="Dynamically Called" Type="Folder">
 			<Item Name="Pages" Type="Folder">
 				<Item Name="Analog Replay Page.vi" Type="VI" URL="../Analog Replay Page.vi"/>
+				<Item Name="Analog Replays Page - Multi FPGA.vi" Type="VI" URL="../Analog Replays Page - Multi FPGA.vi"/>
+				<Item Name="Analog Replays Page Wrapper.vi" Type="VI" URL="../Analog Replays Page Wrapper.vi"/>
 				<Item Name="Analog Replays Page.vi" Type="VI" URL="../Analog Replays Page.vi"/>
 				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
 				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
