@@ -249,7 +249,6 @@
 			</Item>
 			<Item Name="Check Feature Toggle.vi" Type="VI" URL="../Check Feature Toggle.vi"/>
 			<Item Name="Clear Entire Configuration.vi" Type="VI" URL="../Clear Entire Configuration.vi"/>
-			<Item Name="Clear Entire Configuration - Multi FPGA.vi" Type="VI" URL="../Clear Entire Configuration - Multi FPGA.vi"/>
 			<Item Name="Create Chans.vi" Type="VI" URL="../Create Chans.vi"/>
 			<Item Name="Create listbox IP text.vi" Type="VI" URL="../Create listbox IP text.vi"/>
 			<Item Name="Enable Disable Add Remove buttons.vi" Type="VI" URL="../Enable Disable Add Remove buttons.vi"/>
