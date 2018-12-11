@@ -595,6 +595,8 @@
 			<eng>RIO</eng>
 			<loc>RIO</loc>
 		</Name>
+		<DisallowRenaming>true</DisallowRenaming>
+		<DeleteProtection>true</DeleteProtection>
 		<Copy>Copy</Copy>
 		<GUID>2F8959F9-157E-42DF-9C28-D393516A36BB</GUID>
 		<Glyph>
