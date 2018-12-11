@@ -417,7 +417,7 @@
       </Glyph>
 		<Item2Launch>
 			<Type>To Common Doc Dir</Type>
-			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Analog Replays Page.vi</Path>
+			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Analog Replays Page Wrapper.vi</Path>
 		</Item2Launch>
 	</Page>
 	<Page>
@@ -466,7 +466,7 @@
 		</Glyph>
 		<Item2Launch>
 			<Type>To Common Doc Dir</Type>
-			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\APU Page.vi</Path>
+			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\APU Page Wrapper.vi</Path>
 		</Item2Launch>
 	</Page>
 	<Page>
@@ -588,6 +588,24 @@
 		<Item2Launch>
 			<Type>To Common Doc Dir</Type>
 			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Directional Speed Sensor Page.vi</Path>
+		</Item2Launch>
+	</Page>
+	<Page>
+		<Name>
+			<eng>RIO</eng>
+			<loc>RIO</loc>
+		</Name>
+		<DisallowRenaming>true</DisallowRenaming>
+		<DeleteProtection>true</DeleteProtection>
+		<Copy>Copy</Copy>
+		<GUID>2F8959F9-157E-42DF-9C28-D393516A36BB</GUID>
+		<Glyph>
+			<Type>To Application Data Dir</Type>
+			<Path>System Explorer\Glyphs\fpga small.png</Path>
+		</Glyph>
+		<Item2Launch>
+			<Type>To Common Doc Dir</Type>
+			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\RIO Page.vi</Path>
 		</Item2Launch>
 	</Page>
     

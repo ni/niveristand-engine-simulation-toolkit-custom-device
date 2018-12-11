@@ -37,6 +37,8 @@
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Bitfile Parsing" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
+				<Item Name="Parse Bitfile EST Clusters - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile EST Clusters - Multi FPGA.vi"/>
+				<Item Name="Parse EST Clusters into EST IP - Multi FPGA.vi" Type="VI" URL="../Parse EST Clusters into EST IP - Multi FPGA.vi"/>
 				<Item Name="Bitfile EST Interfaces.vi" Type="VI" URL="../Bitfile EST Interfaces.vi"/>
 				<Item Name="EST Version string to Enum.vi" Type="VI" URL="../EST Version string to Enum.vi"/>
 				<Item Name="Get EST Lib Version from Bitfile.vi" Type="VI" URL="../Get EST Lib Version from Bitfile.vi"/>
@@ -46,6 +48,7 @@
 				<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 			</Item>
 			<Item Name="Parse Bitfile for EST IP.vi" Type="VI" URL="../Parse Bitfile for EST IP.vi"/>
+			<Item Name="Parse Bitfile for EST IP - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile for EST IP - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Compile" Type="Folder">
 			<Item Name="Analog Replay" Type="Folder">
@@ -127,7 +130,11 @@
 		<Item Name="Dynamically Called" Type="Folder">
 			<Item Name="Pages" Type="Folder">
 				<Item Name="Analog Replay Page.vi" Type="VI" URL="../Analog Replay Page.vi"/>
+				<Item Name="Analog Replays Page - Multi FPGA.vi" Type="VI" URL="../Analog Replays Page - Multi FPGA.vi"/>
+				<Item Name="Analog Replays Page Wrapper.vi" Type="VI" URL="../Analog Replays Page Wrapper.vi"/>
 				<Item Name="Analog Replays Page.vi" Type="VI" URL="../Analog Replays Page.vi"/>
+				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
+				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
 				<Item Name="APU Page.vi" Type="VI" URL="../APU Page.vi"/>
 				<Item Name="Digital Pattern Page.vi" Type="VI" URL="../Digital Pattern Page.vi"/>
 				<Item Name="Digital Patterns Page.vi" Type="VI" URL="../Digital Patterns Page.vi"/>
@@ -138,6 +145,7 @@
 				<Item Name="Main Page - Multi FPGA.vi" Type="VI" URL="../Main Page - Multi FPGA.vi"/>
 				<Item Name="Main Page Wrapper.vi" Type="VI" URL="../Main Page Wrapper.vi"/>
 				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
+				<Item Name="RIO Page.vi" Type="VI" URL="../RIO Page.vi"/>
 				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
 				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
 			</Item>
@@ -176,9 +184,12 @@
 				<Item Name="Init File Load Dialog Data.vi" Type="VI" URL="../Init File Load Dialog Data.vi"/>
 				<Item Name="Memory Size Enum to Numeric.vi" Type="VI" URL="../Memory Size Enum to Numeric.vi"/>
 				<Item Name="Save File Load Dialog Data.vi" Type="VI" URL="../Save File Load Dialog Data.vi"/>
+				<Item Name="Get RIO and Analog Replay Strings.vi" Type="VI" URL="../Get RIO and Analog Replay Strings.vi"/>
+				<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
 			</Item>
 			<Item Name="APU" Type="Folder">
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
+				<Item Name="Create APU Tree Layout - Multi FPGA.vi" Type="VI" URL="../Create APU Tree Layout - Multi FPGA.vi"/>
 				<Item Name="Get APU Characteristics.vi" Type="VI" URL="../Get APU Characteristics.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
@@ -247,6 +258,18 @@
 			<Item Name="Hide_Show Controls.vi" Type="VI" URL="../Hide_Show Controls.vi"/>
 			<Item Name="Feature Toggle Page.vi" Type="VI" URL="../Feature Toggle Page.vi"/>
 			<Item Name="Host Page In Panel.vi" Type="VI" URL="../Host Page In Panel.vi"/>
+			<Item Name="Add Bitfile Dialog.vi" Type="VI" URL="../Add Bitfile Dialog.vi"/>
+			<Item Name="Enable Disable Bitfile Buttons.vi" Type="VI" URL="../Enable Disable Bitfile Buttons.vi"/>
+			<Item Name="Set Bitfile Path.vi" Type="VI" URL="../Set Bitfile Path.vi"/>
+			<Item Name="Get Bitfile Property Name.vi" Type="VI" URL="../Get Bitfile Property Name.vi"/>
+			<Item Name="Bold Row.vi" Type="VI" URL="../Bold Row.vi"/>
+			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
+			<Item Name="Verify Bitfile Selection.vi" Type="VI" URL="../Verify Bitfile Selection.vi"/>
+			<Item Name="Create APU Listbox IP Text.vi" Type="VI" URL="../Create APU Listbox IP Text.vi"/>
+			<Item Name="Get Analog Replays List.vi" Type="VI" URL="../Get Analog Replays List.vi"/>
+			<Item Name="Get APU List.vi" Type="VI" URL="../Get APU List.vi"/>
+			<Item Name="Get RIOs for APU.vi" Type="VI" URL="../Get RIOs for APU.vi"/>
+			<Item Name="Remove Bitfile.vi" Type="VI" URL="../Remove Bitfile.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
