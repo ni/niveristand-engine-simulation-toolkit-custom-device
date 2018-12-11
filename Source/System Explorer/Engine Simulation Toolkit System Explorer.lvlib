@@ -270,6 +270,7 @@
 			<Item Name="Get Analog Replays List.vi" Type="VI" URL="../Get Analog Replays List.vi"/>
 			<Item Name="Get APU List.vi" Type="VI" URL="../Get APU List.vi"/>
 			<Item Name="Get RIOs for APU.vi" Type="VI" URL="../Get RIOs for APU.vi"/>
+			<Item Name="Remove Bitfile.vi" Type="VI" URL="../Remove Bitfile.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
