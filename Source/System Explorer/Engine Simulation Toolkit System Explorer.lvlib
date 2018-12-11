@@ -191,7 +191,6 @@
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
 				<Item Name="Create APU Tree Layout - Multi FPGA.vi" Type="VI" URL="../Create APU Tree Layout - Multi FPGA.vi"/>
 				<Item Name="Get APU Characteristics.vi" Type="VI" URL="../Get APU Characteristics.vi"/>
-				<Item Name="Get RIO to APU Property Name.vi" Type="VI" URL="../Get RIO to APU Property Name.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
 				<Item Name="Add Digital Pattern.vi" Type="VI" URL="../Add Digital Pattern.vi"/>
