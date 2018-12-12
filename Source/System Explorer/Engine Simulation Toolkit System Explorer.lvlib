@@ -136,6 +136,8 @@
 				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
 				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
 				<Item Name="APU Page.vi" Type="VI" URL="../APU Page.vi"/>
+				<Item Name="Digital Pattern Page - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Page - Multi FPGA.vi"/>
+				<Item Name="Digital Pattern Page Wrapper.vi" Type="VI" URL="../Digital Pattern Page Wrapper.vi"/>
 				<Item Name="Digital Pattern Page.vi" Type="VI" URL="../Digital Pattern Page.vi"/>
 				<Item Name="Digital Patterns Page - Multi FPGA.vi" Type="VI" URL="../Digital Patterns Page - Multi FPGA.vi"/>
 				<Item Name="Digital Patterns Page Wrapper.vi" Type="VI" URL="../Digital Patterns Page Wrapper.vi"/>
