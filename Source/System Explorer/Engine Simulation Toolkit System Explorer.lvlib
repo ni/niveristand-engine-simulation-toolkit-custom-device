@@ -136,7 +136,11 @@
 				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
 				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
 				<Item Name="APU Page.vi" Type="VI" URL="../APU Page.vi"/>
+				<Item Name="Digital Pattern Page - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Page - Multi FPGA.vi"/>
+				<Item Name="Digital Pattern Page Wrapper.vi" Type="VI" URL="../Digital Pattern Page Wrapper.vi"/>
 				<Item Name="Digital Pattern Page.vi" Type="VI" URL="../Digital Pattern Page.vi"/>
+				<Item Name="Digital Patterns Page - Multi FPGA.vi" Type="VI" URL="../Digital Patterns Page - Multi FPGA.vi"/>
+				<Item Name="Digital Patterns Page Wrapper.vi" Type="VI" URL="../Digital Patterns Page Wrapper.vi"/>
 				<Item Name="Digital Patterns Page.vi" Type="VI" URL="../Digital Patterns Page.vi"/>
 				<Item Name="Directional Speed Sensor Page.vi" Type="VI" URL="../Directional Speed Sensor Page.vi"/>
 				<Item Name="Directional Speed Sensors Page.vi" Type="VI" URL="../Directional Speed Sensors Page.vi"/>
@@ -184,7 +188,6 @@
 				<Item Name="Init File Load Dialog Data.vi" Type="VI" URL="../Init File Load Dialog Data.vi"/>
 				<Item Name="Memory Size Enum to Numeric.vi" Type="VI" URL="../Memory Size Enum to Numeric.vi"/>
 				<Item Name="Save File Load Dialog Data.vi" Type="VI" URL="../Save File Load Dialog Data.vi"/>
-				<Item Name="Get RIO and Analog Replay Strings.vi" Type="VI" URL="../Get RIO and Analog Replay Strings.vi"/>
 				<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
 			</Item>
 			<Item Name="APU" Type="Folder">
@@ -209,6 +212,12 @@
 				<Item Name="Update Digital Pattern Cursor Controls.vi" Type="VI" URL="../Update Digital Pattern Cursor Controls.vi"/>
 				<Item Name="Update Digital Pattern FPGA Resources.vi" Type="VI" URL="../Update Digital Pattern FPGA Resources.vi"/>
 				<Item Name="Update Digital Pattern Pattern Controls.vi" Type="VI" URL="../Update Digital Pattern Pattern Controls.vi"/>
+				<Item Name="Get Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Get Digital Patterns - Multi FPGA.vi"/>
+				<Item Name="Add Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Add Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi" Type="VI" URL="../Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi"/>
+				<Item Name="Save Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Save Digital Patterns - Multi FPGA.vi"/>
+				<Item Name="Remove Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Remove Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Rename Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Rename Digital Pattern - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="Directional Speed Sensor" Type="Folder">
 				<Item Name="Create Directional Speed Sensor.vi" Type="VI" URL="../Create Directional Speed Sensor.vi"/>
@@ -266,10 +275,12 @@
 			<Item Name="Listbox State.ctl" Type="VI" URL="../Listbox State.ctl"/>
 			<Item Name="Verify Bitfile Selection.vi" Type="VI" URL="../Verify Bitfile Selection.vi"/>
 			<Item Name="Create APU Listbox IP Text.vi" Type="VI" URL="../Create APU Listbox IP Text.vi"/>
-			<Item Name="Get Analog Replays List.vi" Type="VI" URL="../Get Analog Replays List.vi"/>
+			<Item Name="Get RIOs and Channels List.vi" Type="VI" URL="../Get RIOs and Channels List.vi"/>
 			<Item Name="Get APU List.vi" Type="VI" URL="../Get APU List.vi"/>
 			<Item Name="Get RIOs for APU.vi" Type="VI" URL="../Get RIOs for APU.vi"/>
 			<Item Name="Remove Bitfile.vi" Type="VI" URL="../Remove Bitfile.vi"/>
+			<Item Name="Get RIO and Channel Strings.vi" Type="VI" URL="../Get RIO and Channel Strings.vi"/>
+			<Item Name="Get Custom Device Reference.vi" Type="VI" URL="../Get Custom Device Reference.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
