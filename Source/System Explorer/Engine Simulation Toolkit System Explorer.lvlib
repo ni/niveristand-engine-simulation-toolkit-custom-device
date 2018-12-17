@@ -148,6 +148,8 @@
 				<Item Name="Directional Speed Sensors Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensors Page - Multi FPGA.vi"/>
 				<Item Name="Directional Speed Sensors Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensors Page Wrapper.vi"/>
 				<Item Name="Directional Speed Sensors Page.vi" Type="VI" URL="../Directional Speed Sensors Page.vi"/>
+				<Item Name="Knock Sensor Page - Multi FPGA.vi" Type="VI" URL="../Knock Sensor Page - Multi FPGA.vi"/>
+				<Item Name="Knock Sensor Page Wrapper.vi" Type="VI" URL="../Knock Sensor Page Wrapper.vi"/>
 				<Item Name="Knock Sensor Page.vi" Type="VI" URL="../Knock Sensor Page.vi"/>
 				<Item Name="Knock Sensors Page - Multi FPGA.vi" Type="VI" URL="../Knock Sensors Page - Multi FPGA.vi"/>
 				<Item Name="Knock Sensors Page Wrapper.vi" Type="VI" URL="../Knock Sensors Page Wrapper.vi"/>
@@ -255,6 +257,8 @@
 				<Item Name="List Available Cylinders for Knock Sensor.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor.vi"/>
 				<Item Name="New Knock Cylinder Cluster Constant.vi" Type="VI" URL="../New Knock Cylinder Cluster Constant.vi"/>
 				<Item Name="Set Knock Cylinder Properties.vi" Type="VI" URL="../Set Knock Cylinder Properties.vi"/>
+				<Item Name="List Available Cylinders for Knock Sensor - Multi FPGA.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor - Multi FPGA.vi"/>
+				<Item Name="Get Knock Cylinders - Multi FPGA.vi" Type="VI" URL="../Get Knock Cylinders - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="String Sort" Type="Folder">
 				<Item Name="Logical String Array Sort.vi" Type="VI" URL="../String Sort/Logical String Array Sort.vi"/>
