@@ -142,6 +142,8 @@
 				<Item Name="Digital Patterns Page - Multi FPGA.vi" Type="VI" URL="../Digital Patterns Page - Multi FPGA.vi"/>
 				<Item Name="Digital Patterns Page Wrapper.vi" Type="VI" URL="../Digital Patterns Page Wrapper.vi"/>
 				<Item Name="Digital Patterns Page.vi" Type="VI" URL="../Digital Patterns Page.vi"/>
+				<Item Name="Directional Speed Sensor Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensor Page - Multi FPGA.vi"/>
+				<Item Name="Directional Speed Sensor Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensor Page Wrapper.vi"/>
 				<Item Name="Directional Speed Sensor Page.vi" Type="VI" URL="../Directional Speed Sensor Page.vi"/>
 				<Item Name="Directional Speed Sensors Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensors Page - Multi FPGA.vi"/>
 				<Item Name="Directional Speed Sensors Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensors Page Wrapper.vi"/>
