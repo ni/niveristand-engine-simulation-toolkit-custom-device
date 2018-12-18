@@ -92,12 +92,14 @@
 				<Item Name="Capture" Type="Folder">
 					<Item Name="Compile Event Capture 1.0 Data.vi" Type="VI" URL="../Compile Event Capture 1.0 Data.vi"/>
 					<Item Name="Get Event Timing Captures.vi" Type="VI" URL="../Get Event Timing Captures.vi"/>
+					<Item Name="Get Event Timing Captures - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Captures - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="Measure" Type="Folder">
 					<Item Name="Compile Event Measure 1.0 Data.vi" Type="VI" URL="../Compile Event Measure 1.0 Data.vi"/>
 					<Item Name="Compile Event Measure 1.1 Data.vi" Type="VI" URL="../Compile Event Measure 1.1 Data.vi"/>
 					<Item Name="Get Event Timing Measurements.vi" Type="VI" URL="../Get Event Timing Measurements.vi"/>
 					<Item Name="Throw -8719 error.vi" Type="VI" URL="../Throw -8719 error.vi"/>
+					<Item Name="Get Event Timing Measurements - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Measurements - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="Get Event Timing Windows.vi" Type="VI" URL="../Get Event Timing Windows.vi"/>
 				<Item Name="Validate and Coerce Timing Window.vi" Type="VI" URL="../Validate and Coerce Timing Window.vi"/>
@@ -142,15 +144,27 @@
 				<Item Name="Digital Patterns Page - Multi FPGA.vi" Type="VI" URL="../Digital Patterns Page - Multi FPGA.vi"/>
 				<Item Name="Digital Patterns Page Wrapper.vi" Type="VI" URL="../Digital Patterns Page Wrapper.vi"/>
 				<Item Name="Digital Patterns Page.vi" Type="VI" URL="../Digital Patterns Page.vi"/>
+				<Item Name="Directional Speed Sensor Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensor Page - Multi FPGA.vi"/>
+				<Item Name="Directional Speed Sensor Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensor Page Wrapper.vi"/>
 				<Item Name="Directional Speed Sensor Page.vi" Type="VI" URL="../Directional Speed Sensor Page.vi"/>
+				<Item Name="Directional Speed Sensors Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensors Page - Multi FPGA.vi"/>
+				<Item Name="Directional Speed Sensors Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensors Page Wrapper.vi"/>
 				<Item Name="Directional Speed Sensors Page.vi" Type="VI" URL="../Directional Speed Sensors Page.vi"/>
+				<Item Name="Knock Sensor Page - Multi FPGA.vi" Type="VI" URL="../Knock Sensor Page - Multi FPGA.vi"/>
+				<Item Name="Knock Sensor Page Wrapper.vi" Type="VI" URL="../Knock Sensor Page Wrapper.vi"/>
 				<Item Name="Knock Sensor Page.vi" Type="VI" URL="../Knock Sensor Page.vi"/>
+				<Item Name="Knock Sensors Page - Multi FPGA.vi" Type="VI" URL="../Knock Sensors Page - Multi FPGA.vi"/>
+				<Item Name="Knock Sensors Page Wrapper.vi" Type="VI" URL="../Knock Sensors Page Wrapper.vi"/>
 				<Item Name="Knock Sensors Page.vi" Type="VI" URL="../Knock Sensors Page.vi"/>
 				<Item Name="Main Page - Multi FPGA.vi" Type="VI" URL="../Main Page - Multi FPGA.vi"/>
 				<Item Name="Main Page Wrapper.vi" Type="VI" URL="../Main Page Wrapper.vi"/>
 				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 				<Item Name="RIO Page.vi" Type="VI" URL="../RIO Page.vi"/>
+				<Item Name="Timing Measurement Page - Multi FPGA.vi" Type="VI" URL="../Timing Measurement Page - Multi FPGA.vi"/>
+				<Item Name="Timing Measurement Page Wrapper.vi" Type="VI" URL="../Timing Measurement Page Wrapper.vi"/>
 				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
+				<Item Name="Timing Page - Multi FPGA.vi" Type="VI" URL="../Timing Page - Multi FPGA.vi"/>
+				<Item Name="Timing Page Wrapper.vi" Type="VI" URL="../Timing Page Wrapper.vi"/>
 				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
 			</Item>
 			<Item Name="EnableDisable - Right Click.vi" Type="VI" URL="../EnableDisable - Right Click.vi"/>
@@ -188,7 +202,6 @@
 				<Item Name="Init File Load Dialog Data.vi" Type="VI" URL="../Init File Load Dialog Data.vi"/>
 				<Item Name="Memory Size Enum to Numeric.vi" Type="VI" URL="../Memory Size Enum to Numeric.vi"/>
 				<Item Name="Save File Load Dialog Data.vi" Type="VI" URL="../Save File Load Dialog Data.vi"/>
-				<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
 			</Item>
 			<Item Name="APU" Type="Folder">
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
@@ -233,6 +246,7 @@
 				<Item Name="Format Event Timing Measurements into Table.vi" Type="VI" URL="../Format Event Timing Measurements into Table.vi"/>
 				<Item Name="Format Event Timing Windows into Table.vi" Type="VI" URL="../Format Event Timing Windows into Table.vi"/>
 				<Item Name="List Available Captures for Timing Measurement.vi" Type="VI" URL="../List Available Captures for Timing Measurement.vi"/>
+				<Item Name="List Available Captures for Timing Measurement - Multi FPGA.vi" Type="VI" URL="../List Available Captures for Timing Measurement - Multi FPGA.vi"/>
 				<Item Name="New Capture Cluster Constant.vi" Type="VI" URL="../New Capture Cluster Constant.vi"/>
 				<Item Name="New Measurement Cluster Constant.vi" Type="VI" URL="../New Measurement Cluster Constant.vi"/>
 				<Item Name="Set Event Capture Properties.vi" Type="VI" URL="../Set Event Capture Properties.vi"/>
@@ -249,6 +263,8 @@
 				<Item Name="List Available Cylinders for Knock Sensor.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor.vi"/>
 				<Item Name="New Knock Cylinder Cluster Constant.vi" Type="VI" URL="../New Knock Cylinder Cluster Constant.vi"/>
 				<Item Name="Set Knock Cylinder Properties.vi" Type="VI" URL="../Set Knock Cylinder Properties.vi"/>
+				<Item Name="List Available Cylinders for Knock Sensor - Multi FPGA.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor - Multi FPGA.vi"/>
+				<Item Name="Get Knock Cylinders - Multi FPGA.vi" Type="VI" URL="../Get Knock Cylinders - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="String Sort" Type="Folder">
 				<Item Name="Logical String Array Sort.vi" Type="VI" URL="../String Sort/Logical String Array Sort.vi"/>
@@ -260,6 +276,7 @@
 			<Item Name="Clear Entire Configuration.vi" Type="VI" URL="../Clear Entire Configuration.vi"/>
 			<Item Name="Create Chans.vi" Type="VI" URL="../Create Chans.vi"/>
 			<Item Name="Create listbox IP text.vi" Type="VI" URL="../Create listbox IP text.vi"/>
+			<Item Name="Create Listbox IP Text - Multi FPGA.vi" Type="VI" URL="../Create Listbox IP Text - Multi FPGA.vi"/>
 			<Item Name="Enable Disable Add Remove buttons.vi" Type="VI" URL="../Enable Disable Add Remove buttons.vi"/>
 			<Item Name="Enable_Disable Controls.vi" Type="VI" URL="../Enable_Disable Controls.vi"/>
 			<Item Name="Get Available IP List.vi" Type="VI" URL="../Get Available IP List.vi"/>
