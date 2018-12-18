@@ -98,6 +98,7 @@
 					<Item Name="Compile Event Measure 1.1 Data.vi" Type="VI" URL="../Compile Event Measure 1.1 Data.vi"/>
 					<Item Name="Get Event Timing Measurements.vi" Type="VI" URL="../Get Event Timing Measurements.vi"/>
 					<Item Name="Throw -8719 error.vi" Type="VI" URL="../Throw -8719 error.vi"/>
+					<Item Name="Get Event Timing Measurements - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Measurements - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="Get Event Timing Windows.vi" Type="VI" URL="../Get Event Timing Windows.vi"/>
 				<Item Name="Validate and Coerce Timing Window.vi" Type="VI" URL="../Validate and Coerce Timing Window.vi"/>
@@ -158,6 +159,8 @@
 				<Item Name="Main Page Wrapper.vi" Type="VI" URL="../Main Page Wrapper.vi"/>
 				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 				<Item Name="RIO Page.vi" Type="VI" URL="../RIO Page.vi"/>
+				<Item Name="Timing Measurement Page - Multi FPGA.vi" Type="VI" URL="../Timing Measurement Page - Multi FPGA.vi"/>
+				<Item Name="Timing Measurement Page Wrapper.vi" Type="VI" URL="../Timing Measurement Page Wrapper.vi"/>
 				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
 				<Item Name="Timing Page - Multi FPGA.vi" Type="VI" URL="../Timing Page - Multi FPGA.vi"/>
 				<Item Name="Timing Page Wrapper.vi" Type="VI" URL="../Timing Page Wrapper.vi"/>
@@ -328,5 +331,6 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
-	<Item Name="Get Event Timing Measurements - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Measurements - Multi FPGA.vi"/>
+	<Item Name="Get Event Timing Captures - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Captures - Multi FPGA.vi"/>
+	<Item Name="List Available Captures for Timing Measurement - Multi FPGA.vi" Type="VI" URL="../List Available Captures for Timing Measurement - Multi FPGA.vi"/>
 </Library>
