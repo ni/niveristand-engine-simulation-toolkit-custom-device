@@ -483,7 +483,7 @@
       </Glyph>
 		<Item2Launch>
 			<Type>To Common Doc Dir</Type>
-			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Timing Page.vi</Path>
+			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Timing Page Wrapper.vi</Path>
 		</Item2Launch>
 	</Page>
 	<Page>

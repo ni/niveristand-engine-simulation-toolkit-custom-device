@@ -159,6 +159,8 @@
 				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 				<Item Name="RIO Page.vi" Type="VI" URL="../RIO Page.vi"/>
 				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
+				<Item Name="Timing Page - Multi FPGA.vi" Type="VI" URL="../Timing Page - Multi FPGA.vi"/>
+				<Item Name="Timing Page Wrapper.vi" Type="VI" URL="../Timing Page Wrapper.vi"/>
 				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
 			</Item>
 			<Item Name="EnableDisable - Right Click.vi" Type="VI" URL="../EnableDisable - Right Click.vi"/>
@@ -326,4 +328,5 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
+	<Item Name="Get Event Timing Measurements - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Measurements - Multi FPGA.vi"/>
 </Library>
