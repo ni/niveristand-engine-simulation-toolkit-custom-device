@@ -92,6 +92,7 @@
 				<Item Name="Capture" Type="Folder">
 					<Item Name="Compile Event Capture 1.0 Data.vi" Type="VI" URL="../Compile Event Capture 1.0 Data.vi"/>
 					<Item Name="Get Event Timing Captures.vi" Type="VI" URL="../Get Event Timing Captures.vi"/>
+					<Item Name="Get Event Timing Captures - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Captures - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="Measure" Type="Folder">
 					<Item Name="Compile Event Measure 1.0 Data.vi" Type="VI" URL="../Compile Event Measure 1.0 Data.vi"/>
@@ -201,7 +202,6 @@
 				<Item Name="Init File Load Dialog Data.vi" Type="VI" URL="../Init File Load Dialog Data.vi"/>
 				<Item Name="Memory Size Enum to Numeric.vi" Type="VI" URL="../Memory Size Enum to Numeric.vi"/>
 				<Item Name="Save File Load Dialog Data.vi" Type="VI" URL="../Save File Load Dialog Data.vi"/>
-				<Item Name="Create Analog Replay Listbox IP Text.vi" Type="VI" URL="../Create Analog Replay Listbox IP Text.vi"/>
 			</Item>
 			<Item Name="APU" Type="Folder">
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
@@ -246,6 +246,7 @@
 				<Item Name="Format Event Timing Measurements into Table.vi" Type="VI" URL="../Format Event Timing Measurements into Table.vi"/>
 				<Item Name="Format Event Timing Windows into Table.vi" Type="VI" URL="../Format Event Timing Windows into Table.vi"/>
 				<Item Name="List Available Captures for Timing Measurement.vi" Type="VI" URL="../List Available Captures for Timing Measurement.vi"/>
+				<Item Name="List Available Captures for Timing Measurement - Multi FPGA.vi" Type="VI" URL="../List Available Captures for Timing Measurement - Multi FPGA.vi"/>
 				<Item Name="New Capture Cluster Constant.vi" Type="VI" URL="../New Capture Cluster Constant.vi"/>
 				<Item Name="New Measurement Cluster Constant.vi" Type="VI" URL="../New Measurement Cluster Constant.vi"/>
 				<Item Name="Set Event Capture Properties.vi" Type="VI" URL="../Set Event Capture Properties.vi"/>
@@ -275,6 +276,7 @@
 			<Item Name="Clear Entire Configuration.vi" Type="VI" URL="../Clear Entire Configuration.vi"/>
 			<Item Name="Create Chans.vi" Type="VI" URL="../Create Chans.vi"/>
 			<Item Name="Create listbox IP text.vi" Type="VI" URL="../Create listbox IP text.vi"/>
+			<Item Name="Create Listbox IP Text - Multi FPGA.vi" Type="VI" URL="../Create Listbox IP Text - Multi FPGA.vi"/>
 			<Item Name="Enable Disable Add Remove buttons.vi" Type="VI" URL="../Enable Disable Add Remove buttons.vi"/>
 			<Item Name="Enable_Disable Controls.vi" Type="VI" URL="../Enable_Disable Controls.vi"/>
 			<Item Name="Get Available IP List.vi" Type="VI" URL="../Get Available IP List.vi"/>
@@ -331,6 +333,4 @@
 		</Item>
 		<Item Name="File Interface.lvlib" Type="Library" URL="../Data File Loader/File Interface.lvlib"/>
 	</Item>
-	<Item Name="Get Event Timing Captures - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Captures - Multi FPGA.vi"/>
-	<Item Name="List Available Captures for Timing Measurement - Multi FPGA.vi" Type="VI" URL="../List Available Captures for Timing Measurement - Multi FPGA.vi"/>
 </Library>
