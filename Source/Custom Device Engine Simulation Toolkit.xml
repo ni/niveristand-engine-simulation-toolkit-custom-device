@@ -450,7 +450,7 @@
 		</Glyph>
 		<Item2Launch>
 			<Type>To Common Doc Dir</Type>
-			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Digital Pattern Page Wrapper.vi</Path>
+			<Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Digital Pattern Page.vi</Path>
 		</Item2Launch>
 	</Page>
 	<Page>

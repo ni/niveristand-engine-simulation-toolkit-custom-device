@@ -79,6 +79,8 @@
 				<Item Name="Get Digital Pattern.vi" Type="VI" URL="../Get Digital Pattern.vi"/>
 				<Item Name="Get Digital Patterns.vi" Type="VI" URL="../Get Digital Patterns.vi"/>
 				<Item Name="Process Digital Pattern.vi" Type="VI" URL="../Process Digital Pattern.vi"/>
+				<Item Name="Get Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Get Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Get Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Get Digital Patterns - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="Directional Speed" Type="Folder">
 				<Item Name="Compile Directional Speed 1.0 Data.vi" Type="VI" URL="../Compile Directional Speed 1.0 Data.vi"/>
@@ -138,8 +140,6 @@
 				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
 				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
 				<Item Name="APU Page.vi" Type="VI" URL="../APU Page.vi"/>
-				<Item Name="Digital Pattern Page - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Page - Multi FPGA.vi"/>
-				<Item Name="Digital Pattern Page Wrapper.vi" Type="VI" URL="../Digital Pattern Page Wrapper.vi"/>
 				<Item Name="Digital Pattern Page.vi" Type="VI" URL="../Digital Pattern Page.vi"/>
 				<Item Name="Digital Patterns Page - Multi FPGA.vi" Type="VI" URL="../Digital Patterns Page - Multi FPGA.vi"/>
 				<Item Name="Digital Patterns Page Wrapper.vi" Type="VI" URL="../Digital Patterns Page Wrapper.vi"/>
@@ -225,12 +225,14 @@
 				<Item Name="Update Digital Pattern Cursor Controls.vi" Type="VI" URL="../Update Digital Pattern Cursor Controls.vi"/>
 				<Item Name="Update Digital Pattern FPGA Resources.vi" Type="VI" URL="../Update Digital Pattern FPGA Resources.vi"/>
 				<Item Name="Update Digital Pattern Pattern Controls.vi" Type="VI" URL="../Update Digital Pattern Pattern Controls.vi"/>
-				<Item Name="Get Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Get Digital Patterns - Multi FPGA.vi"/>
 				<Item Name="Add Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Add Digital Pattern - Multi FPGA.vi"/>
 				<Item Name="Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi" Type="VI" URL="../Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi"/>
 				<Item Name="Save Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Save Digital Patterns - Multi FPGA.vi"/>
 				<Item Name="Remove Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Remove Digital Pattern - Multi FPGA.vi"/>
 				<Item Name="Rename Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Rename Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Rename Digital Pattern From FPGA Resource.vi" Type="VI" URL="../Rename Digital Pattern From FPGA Resource.vi"/>
+				<Item Name="Move Digital Pattern to RIO.vi" Type="VI" URL="../Move Digital Pattern to RIO.vi"/>
+				<Item Name="Check Digital Pattern Name Collisions.vi" Type="VI" URL="../Check Digital Pattern Name Collisions.vi"/>
 			</Item>
 			<Item Name="Directional Speed Sensor" Type="Folder">
 				<Item Name="Create Directional Speed Sensor.vi" Type="VI" URL="../Create Directional Speed Sensor.vi"/>
