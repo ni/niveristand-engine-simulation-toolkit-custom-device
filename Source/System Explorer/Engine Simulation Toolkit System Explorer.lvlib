@@ -169,6 +169,8 @@
 			</Item>
 			<Item Name="EnableDisable - Right Click.vi" Type="VI" URL="../EnableDisable - Right Click.vi"/>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
+			<Item Name="Main On Compile Action VI - Multi FPGA.vi" Type="VI" URL="../Main On Compile Action VI - Multi FPGA.vi"/>
+			<Item Name="Main On Compile Action VI Wrapper.vi" Type="VI" URL="../Main On Compile Action VI Wrapper.vi"/>
 			<Item Name="Main On Compile Action VI.vi" Type="VI" URL="../Main On Compile Action VI.vi"/>
 			<Item Name="Main On Load Action VI.vi" Type="VI" URL="../Main On Load Action VI.vi"/>
 		</Item>

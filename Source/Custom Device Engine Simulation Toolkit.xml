@@ -136,7 +136,7 @@
       </ActionVIOnLoad>
       <ActionVIOnCompile>
         <Type>To Common Doc Dir</Type>
-        <Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Main On Compile Action VI.vi</Path>
+        <Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Main On Compile Action VI Wrapper.vi</Path>
       </ActionVIOnCompile>
     </Page>
     <Page>
