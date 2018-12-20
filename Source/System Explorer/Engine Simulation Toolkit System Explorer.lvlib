@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="15008000">
 	<Property Name="Alarm Database Computer" Type="Str">localhost</Property>
 	<Property Name="Alarm Database Name" Type="Str">C__Program_Files_National_Instruments_LabVIEW_2013_data</Property>
@@ -302,6 +302,7 @@
 			<Item Name="Remove Bitfile.vi" Type="VI" URL="../Remove Bitfile.vi"/>
 			<Item Name="Get RIO and Channel Strings.vi" Type="VI" URL="../Get RIO and Channel Strings.vi"/>
 			<Item Name="Get Custom Device Reference.vi" Type="VI" URL="../Get Custom Device Reference.vi"/>
+			<Item Name="Set Master Bitfile.vi" Type="VI" URL="../Set Master Bitfile.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
