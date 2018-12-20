@@ -239,6 +239,7 @@
 				<Item Name="Check if Window Name Taken.vi" Type="VI" URL="../Check if Window Name Taken.vi"/>
 				<Item Name="Configure Event Timing Capture Dialog.vi" Type="VI" URL="../Configure Event Timing Capture Dialog.vi"/>
 				<Item Name="Configure Event Timing Measurement Dialog.vi" Type="VI" URL="../Configure Event Timing Measurement Dialog.vi"/>
+				<Item Name="Configure Event Timing Measurement Dialog - Multi FPGA.vi" Type="VI" URL="../Configure Event Timing Measurement Dialog - Multi FPGA.vi"/>
 				<Item Name="Configure Window Dialog.vi" Type="VI" URL="../Configure Window Dialog.vi"/>
 				<Item Name="Create Event Timing Capture Tree Layout.vi" Type="VI" URL="../Create Event Timing Capture Tree Layout.vi"/>
 				<Item Name="Create Event Timing Measurement Tree Layout.vi" Type="VI" URL="../Create Event Timing Measurement Tree Layout.vi"/>
@@ -251,6 +252,7 @@
 				<Item Name="New Measurement Cluster Constant.vi" Type="VI" URL="../New Measurement Cluster Constant.vi"/>
 				<Item Name="Set Event Capture Properties.vi" Type="VI" URL="../Set Event Capture Properties.vi"/>
 				<Item Name="Set Event Measurement Properties.vi" Type="VI" URL="../Set Event Measurement Properties.vi"/>
+				<Item Name="Set Event Measurement Properties - Multi FPGA.vi" Type="VI" URL="../Set Event Measurement Properties - Multi FPGA.vi"/>
 				<Item Name="Set Event Timing Windows.vi" Type="VI" URL="../Set Event Timing Windows.vi"/>
 				<Item Name="Suggest new Window Name.vi" Type="VI" URL="../Suggest new Window Name.vi"/>
 			</Item>
