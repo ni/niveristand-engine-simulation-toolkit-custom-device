@@ -73,6 +73,7 @@
 				<Item Name="Compile APU 1.3 Data.vi" Type="VI" URL="../Compile APU 1.3 Data.vi"/>
 				<Item Name="Cycle Angle to Crank U16 and Cycle Count.vi" Type="VI" URL="../Cycle Angle to Crank U16 and Cycle Count.vi"/>
 				<Item Name="Compile APU 1.3 Data - Multi FPGA.vi" Type="VI" URL="../Compile APU 1.3 Data - Multi FPGA.vi"/>
+				<Item Name="Compile APU 1.4 Data.vi" Type="VI" URL="../Compile APU 1.4 Data.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
 				<Item Name="Compile Digital Pattern Gen 1.0 Data.vi" Type="VI" URL="../Compile Digital Pattern Gen 1.0 Data.vi"/>

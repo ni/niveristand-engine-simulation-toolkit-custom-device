@@ -24,6 +24,8 @@
 					<Item Name="1.0 APU Engine FIFO Idxs.ctl" Type="VI" URL="../1.0 APU Engine FIFO Idxs.ctl"/>
 					<Item Name="1.1 APU Engine Data.ctl" Type="VI" URL="../1.1 APU Engine Data.ctl"/>
 					<Item Name="1.3 APU Engine Data.ctl" Type="VI" URL="../1.3 APU Engine Data.ctl"/>
+					<Item Name="1.4 APU Engine Data.ctl" Type="VI" URL="../1.4 APU Engine Data.ctl"/>
+					<Item Name="1.4 APU Engine FIFO Idxs.ctl" Type="VI" URL="../1.4 APU Engine FIFO Idxs.ctl"/>
 				</Item>
 				<Item Name="Digital Pattern Gen" Type="Folder">
 					<Item Name="1.0 Digital Pattern Gen Engine Data.ctl" Type="VI" URL="../1.0 Digital Pattern Gen Engine Data.ctl"/>
