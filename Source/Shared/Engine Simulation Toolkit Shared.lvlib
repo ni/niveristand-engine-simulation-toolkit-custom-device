@@ -59,6 +59,7 @@
 				<Item Name="Compiled Data.ctl" Type="VI" URL="../Compiled Data.ctl"/>
 				<Item Name="Engine Init Data.ctl" Type="VI" URL="../Engine Init Data.ctl"/>
 				<Item Name="Engine Status Data.ctl" Type="VI" URL="../Engine Status Data.ctl"/>
+				<Item Name="FPGA Datum.ctl" Type="VI" URL="../../System Explorer/FPGA Datum.ctl"/>
 			</Item>
 			<Item Name="Bitfile EST Version.ctl" Type="VI" URL="../Bitfile EST Version.ctl"/>
 			<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
