@@ -10,9 +10,9 @@
 	<Item Name="Analog Replay" Type="Folder"/>
 	<Item Name="APU" Type="Folder"/>
 	<Item Name="Custom Device" Type="Folder">
-		<Item Name="Add Bitfile.vi" Type="VI" URL="../Add Bitfile.vi"/>
-		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Add Engine Simulation Toolkit Custom Device.vi"/>
-		<Item Name="Bitfile.ctl" Type="VI" URL="../Bitfile.ctl"/>
-		<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Engine Simulation Toolkit Custom Device Settings.ctl"/>
+		<Item Name="Add Bitfile.vi" Type="VI" URL="../Custom Device/Add Bitfile.vi"/>
+		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Add Engine Simulation Toolkit Custom Device.vi"/>
+		<Item Name="Bitfile.ctl" Type="VI" URL="../Custom Device/Bitfile.ctl"/>
+		<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Custom Device/Engine Simulation Toolkit Custom Device Settings.ctl"/>
 	</Item>
 </Library>
