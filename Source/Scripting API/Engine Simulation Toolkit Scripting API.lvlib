@@ -31,5 +31,9 @@
 		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Add Engine Simulation Toolkit Custom Device.vi"/>
 		<Item Name="Bitfile.ctl" Type="VI" URL="../Custom Device/Bitfile.ctl"/>
 		<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Custom Device/Engine Simulation Toolkit Custom Device Settings.ctl"/>
+		<Item Name="Find Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Find Engine Simulation Toolkit Custom Device.vi"/>
+		<Item Name="Get Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Get Engine Simulation Toolkit Custom Device.vi"/>
+		<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Remove Engine Simulation Toolkit Custom Device.vi"/>
+		<Item Name="Set Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Set Engine Simulation Toolkit Custom Device.vi"/>
 	</Item>
 </Library>
