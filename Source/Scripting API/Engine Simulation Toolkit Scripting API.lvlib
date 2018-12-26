@@ -8,7 +8,12 @@
 
 </Property>
 	<Item Name="Analog Replay" Type="Folder"/>
-	<Item Name="APU" Type="Folder"/>
+	<Item Name="APU" Type="Folder">
+		<Item Name="Add APU.vi" Type="VI" URL="../APU/Add APU.vi"/>
+		<Item Name="APU Settings.ctl" Type="VI" URL="../APU/APU Settings.ctl"/>
+		<Item Name="Find APU.vi" Type="VI" URL="../APU/Find APU.vi"/>
+		<Item Name="Remove APU.vi" Type="VI" URL="../APU/Remove APU.vi"/>
+	</Item>
 	<Item Name="Custom Device" Type="Folder">
 		<Item Name="Add Bitfile.vi" Type="VI" URL="../Custom Device/Add Bitfile.vi"/>
 		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Add Engine Simulation Toolkit Custom Device.vi"/>
