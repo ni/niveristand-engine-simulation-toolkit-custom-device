@@ -24,7 +24,9 @@
 		<Item Name="Add APU.vi" Type="VI" URL="../APU/Add APU.vi"/>
 		<Item Name="APU Settings.ctl" Type="VI" URL="../APU/APU Settings.ctl"/>
 		<Item Name="Find APU.vi" Type="VI" URL="../APU/Find APU.vi"/>
+		<Item Name="Get APU.vi" Type="VI" URL="../APU/Get APU.vi"/>
 		<Item Name="Remove APU.vi" Type="VI" URL="../APU/Remove APU.vi"/>
+		<Item Name="Set APU.vi" Type="VI" URL="../APU/Set APU.vi"/>
 	</Item>
 	<Item Name="Custom Device" Type="Folder">
 		<Item Name="Add Bitfile.vi" Type="VI" URL="../Custom Device/Add Bitfile.vi"/>
