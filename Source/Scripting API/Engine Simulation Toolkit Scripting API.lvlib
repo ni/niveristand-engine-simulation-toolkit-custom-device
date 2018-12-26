@@ -28,10 +28,14 @@
 		<Item Name="Remove APU.vi" Type="VI" URL="../APU/Remove APU.vi"/>
 		<Item Name="Set APU.vi" Type="VI" URL="../APU/Set APU.vi"/>
 	</Item>
+	<Item Name="Bitfile" Type="Folder">
+		<Item Name="Add Bitfile.vi" Type="VI" URL="../Bitfile/Add Bitfile.vi"/>
+		<Item Name="Bitfile.ctl" Type="VI" URL="../Bitfile/Bitfile.ctl"/>
+		<Item Name="Get Master RIO.vi" Type="VI" URL="../Bitfile/Get Master RIO.vi"/>
+		<Item Name="Set Master RIO.vi" Type="VI" URL="../Bitfile/Set Master RIO.vi"/>
+	</Item>
 	<Item Name="Custom Device" Type="Folder">
-		<Item Name="Add Bitfile.vi" Type="VI" URL="../Custom Device/Add Bitfile.vi"/>
 		<Item Name="Add Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Add Engine Simulation Toolkit Custom Device.vi"/>
-		<Item Name="Bitfile.ctl" Type="VI" URL="../Custom Device/Bitfile.ctl"/>
 		<Item Name="Engine Simulation Toolkit Custom Device Settings.ctl" Type="VI" URL="../Custom Device/Engine Simulation Toolkit Custom Device Settings.ctl"/>
 		<Item Name="Find Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Find Engine Simulation Toolkit Custom Device.vi"/>
 		<Item Name="Get Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Get Engine Simulation Toolkit Custom Device.vi"/>
