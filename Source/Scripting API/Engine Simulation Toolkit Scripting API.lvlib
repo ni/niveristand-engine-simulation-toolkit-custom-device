@@ -12,6 +12,14 @@
 		<Item Name="Analog Replay Data Options.ctl" Type="VI" URL="../Analog Replay/Analog Replay Data Options.ctl"/>
 		<Item Name="Analog Replay Settings.ctl" Type="VI" URL="../Analog Replay/Analog Replay Settings.ctl"/>
 		<Item Name="Find Analog Replay.vi" Type="VI" URL="../Analog Replay/Find Analog Replay.vi"/>
+		<Item Name="Get Analog Replay Data Options.vi" Type="VI" URL="../Analog Replay/Get Analog Replay Data Options.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="Get Analog Replay Settings.vi" Type="VI" URL="../Analog Replay/Get Analog Replay Settings.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+		<Item Name="Get Analog Replay.vi" Type="VI" URL="../Analog Replay/Get Analog Replay.vi"/>
+		<Item Name="Remove Analog Replay.vi" Type="VI" URL="../Analog Replay/Remove Analog Replay.vi"/>
 		<Item Name="Set Analog Replay Data Options.vi" Type="VI" URL="../Analog Replay/Set Analog Replay Data Options.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
