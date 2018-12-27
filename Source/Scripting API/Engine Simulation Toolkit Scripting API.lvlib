@@ -50,4 +50,5 @@
 		<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Remove Engine Simulation Toolkit Custom Device.vi"/>
 		<Item Name="Set Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Set Engine Simulation Toolkit Custom Device.vi"/>
 	</Item>
+	<Item Name="Remove Bitfile.vi" Type="VI" URL="../Bitfile/Remove Bitfile.vi"/>
 </Library>
