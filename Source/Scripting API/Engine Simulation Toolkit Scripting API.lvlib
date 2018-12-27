@@ -40,6 +40,7 @@
 		<Item Name="Add Bitfile.vi" Type="VI" URL="../Bitfile/Add Bitfile.vi"/>
 		<Item Name="Bitfile.ctl" Type="VI" URL="../Bitfile/Bitfile.ctl"/>
 		<Item Name="Get Master RIO.vi" Type="VI" URL="../Bitfile/Get Master RIO.vi"/>
+		<Item Name="Remove Bitfile.vi" Type="VI" URL="../Bitfile/Remove Bitfile.vi"/>
 		<Item Name="Set Master RIO.vi" Type="VI" URL="../Bitfile/Set Master RIO.vi"/>
 	</Item>
 	<Item Name="Custom Device" Type="Folder">
@@ -50,5 +51,4 @@
 		<Item Name="Remove Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Remove Engine Simulation Toolkit Custom Device.vi"/>
 		<Item Name="Set Engine Simulation Toolkit Custom Device.vi" Type="VI" URL="../Custom Device/Set Engine Simulation Toolkit Custom Device.vi"/>
 	</Item>
-	<Item Name="Remove Bitfile.vi" Type="VI" URL="../Bitfile/Remove Bitfile.vi"/>
 </Library>
