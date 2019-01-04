@@ -24,6 +24,8 @@
 					<Item Name="1.0 APU Engine FIFO Idxs.ctl" Type="VI" URL="../1.0 APU Engine FIFO Idxs.ctl"/>
 					<Item Name="1.1 APU Engine Data.ctl" Type="VI" URL="../1.1 APU Engine Data.ctl"/>
 					<Item Name="1.3 APU Engine Data.ctl" Type="VI" URL="../1.3 APU Engine Data.ctl"/>
+					<Item Name="1.4 APU Engine Data.ctl" Type="VI" URL="../1.4 APU Engine Data.ctl"/>
+					<Item Name="1.4 APU Engine FIFO Idxs.ctl" Type="VI" URL="../1.4 APU Engine FIFO Idxs.ctl"/>
 				</Item>
 				<Item Name="Digital Pattern Gen" Type="Folder">
 					<Item Name="1.0 Digital Pattern Gen Engine Data.ctl" Type="VI" URL="../1.0 Digital Pattern Gen Engine Data.ctl"/>
@@ -59,6 +61,7 @@
 				<Item Name="Compiled Data.ctl" Type="VI" URL="../Compiled Data.ctl"/>
 				<Item Name="Engine Init Data.ctl" Type="VI" URL="../Engine Init Data.ctl"/>
 				<Item Name="Engine Status Data.ctl" Type="VI" URL="../Engine Status Data.ctl"/>
+				<Item Name="FPGA Datum.ctl" Type="VI" URL="../FPGA Datum.ctl"/>
 			</Item>
 			<Item Name="Bitfile EST Version.ctl" Type="VI" URL="../Bitfile EST Version.ctl"/>
 			<Item Name="Channel.ctl" Type="VI" URL="../Channel.ctl"/>
