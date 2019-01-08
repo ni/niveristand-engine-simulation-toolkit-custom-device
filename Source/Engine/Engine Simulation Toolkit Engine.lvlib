@@ -185,6 +185,8 @@
 			<Item Name="RT_Format Message String.vi" Type="VI" URL="../RT_Format Message String.vi"/>
 		</Item>
 		<Item Name="Clear Error Code.vi" Type="VI" URL="../Clear Error Code.vi"/>
+		<Item Name="Close FPGA Refs - Single FPGA.vi" Type="VI" URL="../Close FPGA Refs - Single FPGA.vi"/>
+		<Item Name="Close FPGA Refs - Multi FPGA.vi" Type="VI" URL="../Close FPGA Refs - Multi FPGA.vi"/>
 		<Item Name="Engine VI Template.vit" Type="VI" URL="../Engine VI Template.vit"/>
 		<Item Name="Execute Engine - Single FPGA.vi" Type="VI" URL="../Execute Engine - Single FPGA.vi"/>
 		<Item Name="Execute Engine - Multi FPGA.vi" Type="VI" URL="../Execute Engine - Multi FPGA.vi"/>
