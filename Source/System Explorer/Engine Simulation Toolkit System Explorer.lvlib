@@ -223,6 +223,7 @@
 				<Item Name="Create APU Tree Layout.vi" Type="VI" URL="../Create APU Tree Layout.vi"/>
 				<Item Name="Create APU Tree Layout - Multi FPGA.vi" Type="VI" URL="../Create APU Tree Layout - Multi FPGA.vi"/>
 				<Item Name="Get APU Characteristics.vi" Type="VI" URL="../Get APU Characteristics.vi"/>
+				<Item Name="Get APU Reference.vi" Type="VI" URL="../Get APU Reference.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
 				<Item Name="Add Digital Pattern.vi" Type="VI" URL="../Add Digital Pattern.vi"/>
@@ -319,6 +320,7 @@
 			<Item Name="Get RIO and Channel Strings.vi" Type="VI" URL="../Get RIO and Channel Strings.vi"/>
 			<Item Name="Get Custom Device Reference.vi" Type="VI" URL="../Get Custom Device Reference.vi"/>
 			<Item Name="Set Master Bitfile.vi" Type="VI" URL="../Set Master Bitfile.vi"/>
+			<Item Name="Get Channels For Measurement.vi" Type="VI" URL="../Get Channels For Measurement.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
