@@ -315,7 +315,7 @@
 			<Item Name="Get RIOs and Channels List.vi" Type="VI" URL="../Get RIOs and Channels List.vi"/>
 			<Item Name="Get APU List.vi" Type="VI" URL="../Get APU List.vi"/>
 			<Item Name="Get RIOs for APU.vi" Type="VI" URL="../Get RIOs for APU.vi"/>
-			<Item Name="Remove Bitfile.vi" Type="VI" URL="../Remove Bitfile.vi"/>
+			<Item Name="Remove Bitfile Channels.vi" Type="VI" URL="../Remove Bitfile Channels.vi"/>
 			<Item Name="Get RIO and Channel Strings.vi" Type="VI" URL="../Get RIO and Channel Strings.vi"/>
 			<Item Name="Get Custom Device Reference.vi" Type="VI" URL="../Get Custom Device Reference.vi"/>
 			<Item Name="Set Master Bitfile.vi" Type="VI" URL="../Set Master Bitfile.vi"/>
