@@ -186,6 +186,7 @@
 				<Item Name="Mutate 1.2.9.vi" Type="VI" URL="../Mutate 1.2.9.vi"/>
 				<Item Name="Mutate 1.3.3.vi" Type="VI" URL="../Mutate 1.3.3.vi"/>
 				<Item Name="Mutate 1.3.4.vi" Type="VI" URL="../Mutate 1.3.4.vi"/>
+				<Item Name="Get 1.3.3 Mutation Chans.vi" Type="VI" URL="../Get 1.3.3 Mutation Chans.vi"/>
 			</Item>
 			<Item Name="EnableDisable - Right Click.vi" Type="VI" URL="../EnableDisable - Right Click.vi"/>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
