@@ -181,6 +181,12 @@
 				<Item Name="Timing Page Wrapper.vi" Type="VI" URL="../Timing Page Wrapper.vi"/>
 				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
 			</Item>
+			<Item Name="Mutation" Type="Folder">
+				<Item Name="Mutate 1.1.1.vi" Type="VI" URL="../Mutate 1.1.1.vi"/>
+				<Item Name="Mutate 1.2.9.vi" Type="VI" URL="../Mutate 1.2.9.vi"/>
+				<Item Name="Mutate 1.3.3.vi" Type="VI" URL="../Mutate 1.3.3.vi"/>
+				<Item Name="Mutate 1.3.4.vi" Type="VI" URL="../Mutate 1.3.4.vi"/>
+			</Item>
 			<Item Name="EnableDisable - Right Click.vi" Type="VI" URL="../EnableDisable - Right Click.vi"/>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
 			<Item Name="Main On Compile Action VI - Multi FPGA.vi" Type="VI" URL="../Main On Compile Action VI - Multi FPGA.vi"/>
@@ -321,6 +327,7 @@
 			<Item Name="Get Custom Device Reference.vi" Type="VI" URL="../Get Custom Device Reference.vi"/>
 			<Item Name="Set Master Bitfile.vi" Type="VI" URL="../Set Master Bitfile.vi"/>
 			<Item Name="Get Channels For Measurement.vi" Type="VI" URL="../Get Channels For Measurement.vi"/>
+			<Item Name="Rename String Array Property.vi" Type="VI" URL="../Rename String Array Property.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
