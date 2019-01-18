@@ -21,6 +21,7 @@
 				<Item Name="Analog Replay 1.0 Init.vi" Type="VI" URL="../Analog Replay 1.0 Init.vi"/>
 				<Item Name="Analog Replay 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Analog Replay 1.0 Init - Multi FPGA.vi"/>
 				<Item Name="Analog Replay 1.0 Run.vi" Type="VI" URL="../Analog Replay 1.0 Run.vi"/>
+				<Item Name="Analog Replay 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Analog Replay 1.0 Run - Multi FPGA.vi"/>
 				<Item Name="Analog Replay 1.0 Voltage Scaling.vi" Type="VI" URL="../Analog Replay 1.0 Voltage Scaling.vi"/>
 			</Item>
 		</Item>
@@ -40,6 +41,7 @@
 				<Item Name="APU 1.0 Init - Multi FPGA.vi" Type="VI" URL="../APU 1.0 Init - Multi FPGA.vi"/>
 				<Item Name="APU 1.0 Read Outputs.vi" Type="VI" URL="../APU 1.0 Read Outputs.vi"/>
 				<Item Name="APU 1.0 Run.vi" Type="VI" URL="../APU 1.0 Run.vi"/>
+				<Item Name="APU 1.0 Run - Multi FPGA.vi" Type="VI" URL="../APU 1.0 Run - Multi FPGA.vi"/>
 				<Item Name="APU 1.0 Write Inputs.vi" Type="VI" URL="../APU 1.0 Write Inputs.vi"/>
 			</Item>
 			<Item Name="1.1" Type="Folder">
@@ -51,6 +53,7 @@
 				<Item Name="APU 1.1 Init.vi" Type="VI" URL="../APU 1.1 Init.vi"/>
 				<Item Name="APU 1.1 Init - Multi FPGA.vi" Type="VI" URL="../APU 1.1 Init - Multi FPGA.vi"/>
 				<Item Name="APU 1.1 Run.vi" Type="VI" URL="../APU 1.1 Run.vi"/>
+				<Item Name="APU 1.1 Run - Multi FPGA.vi" Type="VI" URL="../APU 1.1 Run - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="1.3" Type="Folder">
 				<Item Name="Types" Type="Folder">
@@ -60,12 +63,17 @@
 				<Item Name="APU 1.3 In Place Input Write Structure.vi" Type="VI" URL="../APU 1.3 In Place Input Write Structure.vi"/>
 				<Item Name="APU 1.3 In Place Output Read Structure.vi" Type="VI" URL="../APU 1.3 In Place Output Read Structure.vi"/>
 				<Item Name="APU 1.3 Init.vi" Type="VI" URL="../APU 1.3 Init.vi"/>
-				<Item Name="APU 1.3 Run.vi" Type="VI" URL="../APU 1.3 Run.vi"/>
 				<Item Name="APU 1.3 Init - Multi FPGA.vi" Type="VI" URL="../APU 1.3 Init - Multi FPGA.vi"/>
+				<Item Name="APU 1.3 Run.vi" Type="VI" URL="../APU 1.3 Run.vi"/>
+				<Item Name="APU 1.3 Run - Multi FPGA.vi" Type="VI" URL="../APU 1.3 Run - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="1.4" Type="Folder">
+				<Item Name="APU 1.4 In Place Input Write Structure.vi" Type="VI" URL="../APU 1.4 In Place Input Write Structure.vi"/>
+				<Item Name="APU 1.4 In Place Output Read Structure.vi" Type="VI" URL="../APU 1.4 In Place Output Read Structure.vi"/>
 				<Item Name="APU 1.4 Init - Multi FPGA.vi" Type="VI" URL="../APU 1.4 Init - Multi FPGA.vi"/>
 				<Item Name="APU 1.4 Init Master.vi" Type="VI" URL="../APU 1.4 Init Master.vi"/>
+				<Item Name="APU 1.4 Read Outputs.vi" Type="VI" URL="../APU 1.4 Read Outputs.vi"/>
+				<Item Name="APU 1.4 Run - Multi FPGA.vi" Type="VI" URL="../APU 1.4 Run - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="APU FXP Speed to DBL Speed.vi" Type="VI" URL="../APU FXP Speed to DBL Speed.vi"/>
 			<Item Name="Synchronize APUs.vi" Type="VI" URL="../Synchronize APUs.vi"/>
@@ -81,6 +89,7 @@
 		<Item Name="Communication" Type="Folder">
 			<Item Name="Read VS FIFO.vi" Type="VI" URL="../Read VS FIFO.vi"/>
 			<Item Name="Write VS FIFO.vi" Type="VI" URL="../Write VS FIFO.vi"/>
+			<Item Name="Write VS FIFO - Multi FPGA.vi" Type="VI" URL="../Write VS FIFO - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Digital Pattern Gen" Type="Folder">
 			<Item Name="1.0" Type="Folder">
@@ -94,6 +103,7 @@
 				<Item Name="Digital Pattern Gen 1.0 Init.vi" Type="VI" URL="../Digital Pattern Gen 1.0 Init.vi"/>
 				<Item Name="Digital Pattern Gen 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Gen 1.0 Init - Multi FPGA.vi"/>
 				<Item Name="Digital Pattern Gen 1.0 Run.vi" Type="VI" URL="../Digital Pattern Gen 1.0 Run.vi"/>
+				<Item Name="Digital Pattern Gen 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Gen 1.0 Run - Multi FPGA.vi"/>
 				<Item Name="Digital Pattern Gen 1.0 Write Inputs.vi" Type="VI" URL="../Digital Pattern Gen 1.0 Write Inputs.vi"/>
 			</Item>
 			<Item Name="1.3" Type="Folder">
@@ -107,6 +117,7 @@
 				<Item Name="Digital Pattern Gen 1.3 Init.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Init.vi"/>
 				<Item Name="Digital Pattern Gen 1.3 Init - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Init - Multi FPGA.vi"/>
 				<Item Name="Digital Pattern Gen 1.3 Run.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Run.vi"/>
+				<Item Name="Digital Pattern Gen 1.3 Run - Multi FPGA.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Run - Multi FPGA.vi"/>
 				<Item Name="Digital Pattern Gen 1.3 Tooth to Edges.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Tooth to Edges.vi"/>
 				<Item Name="Digital Pattern Gen 1.3 Validate Fault Positions.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Validate Fault Positions.vi"/>
 				<Item Name="Digital Pattern Gen 1.3 Write Inputs.vi" Type="VI" URL="../Digital Pattern Gen 1.3 Write Inputs.vi"/>
@@ -124,6 +135,7 @@
 				<Item Name="Directional Speed 1.0 Init.vi" Type="VI" URL="../Directional Speed 1.0 Init.vi"/>
 				<Item Name="Directional Speed 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Directional Speed 1.0 Init - Multi FPGA.vi"/>
 				<Item Name="Directional Speed 1.0 Run.vi" Type="VI" URL="../Directional Speed 1.0 Run.vi"/>
+				<Item Name="Directional Speed 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Directional Speed 1.0 Run - Multi FPGA.vi"/>
 				<Item Name="Directional Speed 1.0 Write Inputs.vi" Type="VI" URL="../Directional Speed 1.0 Write Inputs.vi"/>
 			</Item>
 		</Item>
@@ -137,6 +149,7 @@
 					<Item Name="Event Timing Capture 1.0 Init.vi" Type="VI" URL="../Event Timing Capture 1.0 Init.vi"/>
 					<Item Name="Event Timing Capture 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Event Timing Capture 1.0 Init - Multi FPGA.vi"/>
 					<Item Name="Event Timing Capture 1.0 Run.vi" Type="VI" URL="../Event Timing Capture 1.0 Run.vi"/>
+					<Item Name="Event Timing Capture 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Event Timing Capture 1.0 Run - Multi FPGA.vi"/>
 				</Item>
 			</Item>
 			<Item Name="Measure" Type="Folder">
@@ -149,6 +162,7 @@
 					<Item Name="Event Timing Measure 1.0 Init.vi" Type="VI" URL="../Event Timing Measure 1.0 Init.vi"/>
 					<Item Name="Event Timing Measure 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Event Timing Measure 1.0 Init - Multi FPGA.vi"/>
 					<Item Name="Event Timing Measure 1.0 Run.vi" Type="VI" URL="../Event Timing Measure 1.0 Run.vi"/>
+					<Item Name="Event Timing Measure 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Event Timing Measure 1.0 Run - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="1.1" Type="Folder">
 					<Item Name="Types" Type="Folder">
@@ -158,6 +172,7 @@
 					<Item Name="Event Timing Measure 1.1 Init.vi" Type="VI" URL="../Event Timing Measure 1.1 Init.vi"/>
 					<Item Name="Event Timing Measure 1.1 Init - Multi FPGA.vi" Type="VI" URL="../Event Timing Measure 1.1 Init - Multi FPGA.vi"/>
 					<Item Name="Event Timing Measure 1.1 Run.vi" Type="VI" URL="../Event Timing Measure 1.1 Run.vi"/>
+					<Item Name="Event Timing Measure 1.1 Run - Multi FPGA.vi" Type="VI" URL="../Event Timing Measure 1.1 Run - Multi FPGA.vi"/>
 				</Item>
 			</Item>
 		</Item>
@@ -173,6 +188,7 @@
 					<Item Name="Knock Cylinder 1.0 Init.vi" Type="VI" URL="../Knock Cylinder 1.0 Init.vi"/>
 					<Item Name="Knock Cylinder 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Knock Cylinder 1.0 Init - Multi FPGA.vi"/>
 					<Item Name="Knock Cylinder 1.0 Run.vi" Type="VI" URL="../Knock Cylinder 1.0 Run.vi"/>
+					<Item Name="Knock Cylinder 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Knock Cylinder 1.0 Run - Multi FPGA.vi"/>
 					<Item Name="Knock Cylinder 1.0 Write Inputs.vi" Type="VI" URL="../Knock Cylinder 1.0 Write Inputs.vi"/>
 				</Item>
 			</Item>
@@ -187,6 +203,7 @@
 					<Item Name="Knock Sensor 1.0 Init.vi" Type="VI" URL="../Knock Sensor 1.0 Init.vi"/>
 					<Item Name="Knock Sensor 1.0 Init - Multi FPGA.vi" Type="VI" URL="../Knock Sensor 1.0 Init - Multi FPGA.vi"/>
 					<Item Name="Knock Sensor 1.0 Run.vi" Type="VI" URL="../Knock Sensor 1.0 Run.vi"/>
+					<Item Name="Knock Sensor 1.0 Run - Multi FPGA.vi" Type="VI" URL="../Knock Sensor 1.0 Run - Multi FPGA.vi"/>
 					<Item Name="Knock Sensor 1.0 Write Inputs.vi" Type="VI" URL="../Knock Sensor 1.0 Write Inputs.vi"/>
 				</Item>
 			</Item>
