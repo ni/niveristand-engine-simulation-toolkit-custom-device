@@ -328,7 +328,7 @@
 			<Item Name="Get Custom Device Reference.vi" Type="VI" URL="../Get Custom Device Reference.vi"/>
 			<Item Name="Set Master Bitfile.vi" Type="VI" URL="../Set Master Bitfile.vi"/>
 			<Item Name="Get Channels For Measurement.vi" Type="VI" URL="../Get Channels For Measurement.vi"/>
-			<Item Name="Verify Can Add Additional Bitfile.vi" Type="VI" URL="../Verify Can Add Additional Bitfile.vi"/>
+			<Item Name="Verify Bitfile Versions Can Support Additional Bitfile.vi" Type="VI" URL="../Verify Bitfile Versions Can Support Additional Bitfile.vi"/>
 			<Item Name="Rename String Array Property.vi" Type="VI" URL="../Rename String Array Property.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
