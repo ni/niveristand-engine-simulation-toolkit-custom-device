@@ -245,7 +245,7 @@
 								<U32>0</U32>
 							</Property>
 							<Property Name="user.CD.Main.Bitfile">
-								<DependentFile Type="Absolute" Path="C:\Users\nitest\Documents\EngineSimulation_FPGATarget_Everything_2_APUs_z44qtGJ2Thg.lvbitx">
+								<DependentFile Type="Relative" Path="EngineSimulation_FPGATarget_Everything_2_APUs_z44qtGJ2Thg.lvbitx">
 									<Version>1.0</Version>
 									<ForceDownload>false</ForceDownload>
 									<RTDestination>c:\ni-rt\NIVeriStand\Custom Devices\Engine Simulation Toolkit\EngineSimulation_FPGATarget_Everything_2_APUs_z44qtGJ2Thg.lvbitx</RTDestination>
@@ -491,7 +491,7 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 												<Boolean>false</Boolean>
 											</Property>
 											<Property Name="user.CD.DataReplay.File">
-												<DependentFile Type="Absolute" Path="C:\Users\nitest\Documents\analog replay crank VR data.csv">
+												<DependentFile Type="Relative" Path="analog replay crank VR data.csv">
 													<Version />
 													<RTDestination />
 													<SupportedTarget />
