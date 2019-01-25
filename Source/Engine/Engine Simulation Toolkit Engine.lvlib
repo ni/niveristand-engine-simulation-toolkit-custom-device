@@ -80,7 +80,6 @@
 		</Item>
 		<Item Name="Bitfile" Type="Folder">
 			<Item Name="Close all FPGA refs.vi" Type="VI" URL="../Close all FPGA refs.vi"/>
-			<Item Name="FPGA run method.vi" Type="VI" URL="../FPGA run method.vi"/>
 			<Item Name="Init Bitfile.vi" Type="VI" URL="../Init Bitfile.vi"/>
 			<Item Name="Init Multiple Bitfiles.vi" Type="VI" URL="../Init Multiple Bitfiles.vi"/>
 			<Item Name="Run Bitfile.vi" Type="VI" URL="../Run Bitfile.vi"/>
