@@ -334,6 +334,8 @@
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
 			<Item Name="Refresh IP Channels.vi" Type="VI" URL="../Refresh IP Channels.vi"/>
+			<Item Name="Refresh FPGA Bitfile Wrapper.vi" Type="VI" URL="../Refresh FPGA Bitfile Wrapper.vi"/>
+			<Item Name="Refresh FPGA Bitfile - Multi FPGA.vi" Type="VI" URL="../Refresh FPGA Bitfile - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
 			<Item Name="Analog Replay" Type="Folder">

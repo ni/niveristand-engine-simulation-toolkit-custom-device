@@ -99,7 +99,7 @@
       </Name>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-        <Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Refresh FPGA Bitfile.vi</Path>
+        <Path>Custom Devices\Engine Simulation Toolkit\Engine Simulation Toolkit Configuration.llb\Refresh FPGA Bitfile Wrapper.vi</Path>
       </Item2Launch>
     </MenuItem>
 		</RunTimeMenu>
