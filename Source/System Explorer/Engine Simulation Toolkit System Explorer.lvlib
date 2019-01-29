@@ -330,10 +330,15 @@
 			<Item Name="Get Channels For Measurement.vi" Type="VI" URL="../Get Channels For Measurement.vi"/>
 			<Item Name="Verify Bitfile Versions Can Support Additional Bitfile.vi" Type="VI" URL="../Verify Bitfile Versions Can Support Additional Bitfile.vi"/>
 			<Item Name="Rename String Array Property.vi" Type="VI" URL="../Rename String Array Property.vi"/>
+			<Item Name="Reload Bitfile.vi" Type="VI" URL="../Reload Bitfile.vi"/>
+			<Item Name="Create Bitfile.vi" Type="VI" URL="../Create Bitfile.vi"/>
+			<Item Name="Remove Bitfiles.vi" Type="VI" URL="../Remove Bitfiles.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
 			<Item Name="Refresh IP Channels.vi" Type="VI" URL="../Refresh IP Channels.vi"/>
+			<Item Name="Refresh FPGA Bitfile Wrapper.vi" Type="VI" URL="../Refresh FPGA Bitfile Wrapper.vi"/>
+			<Item Name="Refresh FPGA Bitfile - Multi FPGA.vi" Type="VI" URL="../Refresh FPGA Bitfile - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
 			<Item Name="Analog Replay" Type="Folder">
