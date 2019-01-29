@@ -310,7 +310,7 @@
 			<Item Name="Get Available IP List.vi" Type="VI" URL="../Get Available IP List.vi"/>
 			<Item Name="Get Bitfile Version.vi" Type="VI" URL="../Get Bitfile Version.vi"/>
 			<Item Name="Hide_Show Controls.vi" Type="VI" URL="../Hide_Show Controls.vi"/>
-			<Item Name="Feature Toggle Page.vi" Type="VI" URL="../Feature Toggle Page.vi"/>
+			<Item Name="Persistent Feature Toggle Page.vi" Type="VI" URL="../Persistent Feature Toggle Page.vi"/>
 			<Item Name="Host Page In Panel.vi" Type="VI" URL="../Host Page In Panel.vi"/>
 			<Item Name="Add Bitfile Dialog.vi" Type="VI" URL="../Add Bitfile Dialog.vi"/>
 			<Item Name="Enable Disable Bitfile Buttons.vi" Type="VI" URL="../Enable Disable Bitfile Buttons.vi"/>
