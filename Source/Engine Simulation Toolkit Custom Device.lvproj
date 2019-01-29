@@ -962,18 +962,18 @@
 				<Property Name="Bld_excludedDirectory[4]" Type="Path">user.lib</Property>
 				<Property Name="Bld_excludedDirectory[4].pathType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">5</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../Built/Engine Simulation Toolkit/Scripting API.llb</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Built/Engine Simulation Toolkit/Engine Simulation Toolkit Scripting API.llb</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{90B7F7FF-998F-408C-BD59-D4037D06F0A8}</Property>
 				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].path" Type="Path">../Built/Engine Simulation Toolkit/Scripting API.llb</Property>
+				<Property Name="Destination[0].path" Type="Path">../Built/Engine Simulation Toolkit/Engine Simulation Toolkit Scripting API.llb</Property>
 				<Property Name="Destination[0].type" Type="Str">LLB</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../Built/Engine Simulation Toolkit/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F4763859-340E-477C-9EF8-B43CAAF96BC8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{08C5CA0D-7DB9-44B5-A9D4-3F9B19F8BA34}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib</Property>
