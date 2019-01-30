@@ -24,6 +24,11 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="System" Type="Folder">
+				<Item Name="Assets" Type="Folder">
+					<Item Name="AnalogReplay.csv" Type="Document" URL="../Tests/System/Multi FPGA/Assets/AnalogReplay.csv"/>
+					<Item Name="EverythingMultiFPGA_7862.lvbitx" Type="Document" URL="../Tests/System/Multi FPGA/Assets/EverythingMultiFPGA_7862.lvbitx"/>
+					<Item Name="MultiFPGA.nivssdf" Type="Document" URL="../Tests/System/Multi FPGA/Assets/MultiFPGA.nivssdf"/>
+				</Item>
 				<Item Name="Engine Simulation Multi FPGA System Tests.lvclass" Type="LVClass" URL="../Tests/System/Multi FPGA/Engine Simulation Multi FPGA System Tests.lvclass"/>
 			</Item>
 			<Item Name="Unit" Type="Folder">
