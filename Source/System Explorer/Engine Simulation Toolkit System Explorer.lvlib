@@ -333,6 +333,8 @@
 			<Item Name="Reload Bitfile.vi" Type="VI" URL="../Reload Bitfile.vi"/>
 			<Item Name="Create Bitfile.vi" Type="VI" URL="../Create Bitfile.vi"/>
 			<Item Name="Remove Bitfiles.vi" Type="VI" URL="../Remove Bitfiles.vi"/>
+			<Item Name="Main Page refnums.ctl" Type="VI" URL="../Main Page refnums.ctl"/>
+			<Item Name="Refresh Main Page Listboxes.vi" Type="VI" URL="../Refresh Main Page Listboxes.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
 			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
