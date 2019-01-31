@@ -1006,24 +1006,101 @@
 				<Property Name="Bld_excludedDirectory[4]" Type="Path">user.lib</Property>
 				<Property Name="Bld_excludedDirectory[4].pathType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">5</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Scripting API.llb</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Built/Engine Simulation Toolkit/Engine Simulation Toolkit Scripting API.llb</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{90B7F7FF-998F-408C-BD59-D4037D06F0A8}</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Scripting API.llb</Property>
+				<Property Name="Destination[0].path" Type="Path">../Built/Engine Simulation Toolkit/Engine Simulation Toolkit Scripting API.llb</Property>
 				<Property Name="Destination[0].type" Type="Str">LLB</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../Built/Engine Simulation Toolkit/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{65327715-4DBF-42CC-BCB7-C0F9EFBCAB46}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{08C5CA0D-7DB9-44B5-A9D4-3F9B19F8BA34}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib</Property>
 				<Property Name="Source[1].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="Source[10].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[10].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/APU/Remove APU.vi</Property>
+				<Property Name="Source[10].type" Type="Str">VI</Property>
+				<Property Name="Source[10].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[11].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/APU/Set APU.vi</Property>
+				<Property Name="Source[11].type" Type="Str">VI</Property>
+				<Property Name="Source[11].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[12].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Bitfile/Add Bitfile.vi</Property>
+				<Property Name="Source[12].type" Type="Str">VI</Property>
+				<Property Name="Source[12].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Bitfile/Get Master RIO.vi</Property>
+				<Property Name="Source[13].type" Type="Str">VI</Property>
+				<Property Name="Source[13].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[14].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Bitfile/Remove Bitfile.vi</Property>
+				<Property Name="Source[14].type" Type="Str">VI</Property>
+				<Property Name="Source[14].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[15].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Bitfile/Set Master RIO.vi</Property>
+				<Property Name="Source[15].type" Type="Str">VI</Property>
+				<Property Name="Source[15].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[16].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[16].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Custom Device/Add Engine Simulation Toolkit Custom Device.vi</Property>
+				<Property Name="Source[16].type" Type="Str">VI</Property>
+				<Property Name="Source[16].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[17].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[17].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Custom Device/Find Engine Simulation Toolkit Custom Device.vi</Property>
+				<Property Name="Source[17].type" Type="Str">VI</Property>
+				<Property Name="Source[17].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[18].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[18].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Custom Device/Get Engine Simulation Toolkit Custom Device.vi</Property>
+				<Property Name="Source[18].type" Type="Str">VI</Property>
+				<Property Name="Source[18].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[19].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[19].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Custom Device/Remove Engine Simulation Toolkit Custom Device.vi</Property>
+				<Property Name="Source[19].type" Type="Str">VI</Property>
+				<Property Name="Source[19].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Analog Replay/Add Analog Replay.vi</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="Source[2].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[20].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[20].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Custom Device/Set Engine Simulation Toolkit Custom Device.vi</Property>
+				<Property Name="Source[20].type" Type="Str">VI</Property>
+				<Property Name="Source[20].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Analog Replay/Find Analog Replay.vi</Property>
+				<Property Name="Source[3].type" Type="Str">VI</Property>
+				<Property Name="Source[3].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Analog Replay/Get Analog Replay.vi</Property>
+				<Property Name="Source[4].type" Type="Str">VI</Property>
+				<Property Name="Source[4].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Analog Replay/Remove Analog Replay.vi</Property>
+				<Property Name="Source[5].type" Type="Str">VI</Property>
+				<Property Name="Source[5].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[6].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Analog Replay/Set Analog Replay.vi</Property>
+				<Property Name="Source[6].type" Type="Str">VI</Property>
+				<Property Name="Source[6].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[7].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/APU/Add APU.vi</Property>
+				<Property Name="Source[7].type" Type="Str">VI</Property>
+				<Property Name="Source[7].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/APU/Find APU.vi</Property>
+				<Property Name="Source[8].type" Type="Str">VI</Property>
+				<Property Name="Source[8].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/APU/Get APU.vi</Property>
+				<Property Name="Source[9].type" Type="Str">VI</Property>
+				<Property Name="Source[9].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="SourceCount" Type="Int">21</Property>
 			</Item>
 		</Item>
 	</Item>
