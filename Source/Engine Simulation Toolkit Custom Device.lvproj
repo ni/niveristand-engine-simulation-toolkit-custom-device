@@ -1016,8 +1016,10 @@
 				<Property Name="Destination[0].type" Type="Str">LLB</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../Built/Engine Simulation Toolkit/data</Property>
-				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{08C5CA0D-7DB9-44B5-A9D4-3F9B19F8BA34}</Property>
+				<Property Name="Destination[2].destName" Type="Str">Custom Device Directory</Property>
+				<Property Name="Destination[2].path" Type="Path">../Built/Engine Simulation Toolkit</Property>
+				<Property Name="DestinationCount" Type="Int">3</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D8F23A6E-D2AB-4DAB-BB4D-E1B4A4E104D1}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib</Property>
@@ -1072,6 +1074,10 @@
 				<Property Name="Source[20].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Custom Device/Set Engine Simulation Toolkit Custom Device.vi</Property>
 				<Property Name="Source[20].type" Type="Str">VI</Property>
 				<Property Name="Source[20].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[21].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[21].itemID" Type="Ref">/My Computer/File Formats.lvlibp</Property>
+				<Property Name="Source[21].preventRename" Type="Bool">true</Property>
+				<Property Name="Source[21].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/Analog Replay/Find Analog Replay.vi</Property>
 				<Property Name="Source[3].type" Type="Str">VI</Property>
@@ -1100,7 +1106,7 @@
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Engine Simulation Toolkit Scripting API.lvlib/APU/Get APU.vi</Property>
 				<Property Name="Source[9].type" Type="Str">VI</Property>
 				<Property Name="Source[9].VI.LLBtopLevel" Type="Bool">true</Property>
-				<Property Name="SourceCount" Type="Int">21</Property>
+				<Property Name="SourceCount" Type="Int">22</Property>
 			</Item>
 		</Item>
 	</Item>
