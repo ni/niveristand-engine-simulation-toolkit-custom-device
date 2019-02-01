@@ -28,6 +28,13 @@ type = 'lvBuildSpecAllTargets'
 project = '{cd}'
 build_spec = 'Engine Release'
 
+[[build.steps]]
+name = 'Scripting API'
+type = 'lvBuildSpec'
+project = '{cd}'
+target = 'My Computer'
+build_spec = 'Scripting API'
+
 [package]
 type = 'nipkg'
 payload_dir = 'Built'
