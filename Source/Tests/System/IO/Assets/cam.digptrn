@@ -1,0 +1,25 @@
+<?xml version='1.0' standalone='yes' ?>
+<GXML_Root>
+  <EST_Ver type='Version'>1.0.0</EST_Ver>
+  <EPT_Pattern mems='3'>
+    <Base mems='4'>
+      <Length type='DBL'>720</Length>
+      <Teeth type='U16'>5</Teeth>
+      <Width type='DBL'>50</Width>
+      <Offset type='DBL'>-0.5</Offset>
+    </Base>
+    <Remove dim='[0]' type='Cluster'>
+      <Cluster mems='2'>
+        <Tooth type='U16'></Tooth>
+        <Edge type='Bool'></Edge>
+      </Cluster>
+    </Remove>
+    <Add dim='[0]' type='Cluster'>
+      <Cluster mems='3'>
+        <Tooth type='U16'></Tooth>
+        <Offset type='DBL'></Offset>
+        <Width type='DBL'></Width>
+      </Cluster>
+    </Add>
+  </EPT_Pattern>
+</GXML_Root>
