@@ -25,22 +25,13 @@
 		<Item Name="Tests" Type="Folder">
 			<Item Name="System" Type="Folder">
 				<Item Name="Common Assets" Type="Folder">
-					<Item Name="EverythingMultiFPGA_7862.lvbitx" Type="Document" URL="../Tests/System/Common Assets/EverythingMultiFPGA_7862.lvbitx"/>
+					<Item Name="EngineSimTest.nivssdf" Type="Document" URL="../Tests/System/Common Assets/EngineSimTest.nivssdf"/>
+					<Item Name="EverythingMultiFPGATest_7858.lvbitx" Type="Document" URL="../Tests/System/Common Assets/EverythingMultiFPGATest_7858.lvbitx"/>
 				</Item>
 				<Item Name="IO" Type="Folder">
-					<Item Name="Assets" Type="Folder">
-						<Item Name="cam.digptrn" Type="Document" URL="../Tests/System/IO/Assets/cam.digptrn"/>
-						<Item Name="crank.digptrn" Type="Document" URL="../Tests/System/IO/Assets/crank.digptrn"/>
-						<Item Name="estksysdef.nivssdf" Type="Document" URL="../Tests/System/IO/Assets/estksysdef.nivssdf"/>
-						<Item Name="EverythingTest_7854.lvbitx" Type="Document" URL="../Tests/System/IO/Assets/EverythingTest_7854.lvbitx"/>
-					</Item>
 					<Item Name="Engine Simulation IO System Tests.lvclass" Type="LVClass" URL="../Tests/System/IO/Engine Simulation IO System Tests.lvclass"/>
 				</Item>
 				<Item Name="Multi FPGA" Type="Folder">
-					<Item Name="Assets" Type="Folder">
-						<Item Name="AnalogReplay.csv" Type="Document" URL="../Tests/System/Multi FPGA/Assets/AnalogReplay.csv"/>
-						<Item Name="MultiFPGA.nivssdf" Type="Document" URL="../Tests/System/Multi FPGA/Assets/MultiFPGA.nivssdf"/>
-					</Item>
 					<Item Name="Engine Simulation Multi FPGA System Tests.lvclass" Type="LVClass" URL="../Tests/System/Multi FPGA/Engine Simulation Multi FPGA System Tests.lvclass"/>
 				</Item>
 				<Item Name="Scripting API" Type="Folder">
