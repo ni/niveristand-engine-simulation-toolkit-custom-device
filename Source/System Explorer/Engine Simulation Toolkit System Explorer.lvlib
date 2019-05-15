@@ -149,37 +149,17 @@
 			<Item Name="Pages" Type="Folder">
 				<Item Name="Analog Replay Page.vi" Type="VI" URL="../Analog Replay Page.vi"/>
 				<Item Name="Analog Replays Page - Multi FPGA.vi" Type="VI" URL="../Analog Replays Page - Multi FPGA.vi"/>
-				<Item Name="Analog Replays Page Wrapper.vi" Type="VI" URL="../Analog Replays Page Wrapper.vi"/>
-				<Item Name="Analog Replays Page.vi" Type="VI" URL="../Analog Replays Page.vi"/>
 				<Item Name="APU Page - Multi FPGA.vi" Type="VI" URL="../APU Page - Multi FPGA.vi"/>
-				<Item Name="APU Page Wrapper.vi" Type="VI" URL="../APU Page Wrapper.vi"/>
-				<Item Name="APU Page.vi" Type="VI" URL="../APU Page.vi"/>
 				<Item Name="Digital Pattern Page.vi" Type="VI" URL="../Digital Pattern Page.vi"/>
 				<Item Name="Digital Patterns Page - Multi FPGA.vi" Type="VI" URL="../Digital Patterns Page - Multi FPGA.vi"/>
-				<Item Name="Digital Patterns Page Wrapper.vi" Type="VI" URL="../Digital Patterns Page Wrapper.vi"/>
-				<Item Name="Digital Patterns Page.vi" Type="VI" URL="../Digital Patterns Page.vi"/>
 				<Item Name="Directional Speed Sensor Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensor Page - Multi FPGA.vi"/>
-				<Item Name="Directional Speed Sensor Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensor Page Wrapper.vi"/>
-				<Item Name="Directional Speed Sensor Page.vi" Type="VI" URL="../Directional Speed Sensor Page.vi"/>
 				<Item Name="Directional Speed Sensors Page - Multi FPGA.vi" Type="VI" URL="../Directional Speed Sensors Page - Multi FPGA.vi"/>
-				<Item Name="Directional Speed Sensors Page Wrapper.vi" Type="VI" URL="../Directional Speed Sensors Page Wrapper.vi"/>
-				<Item Name="Directional Speed Sensors Page.vi" Type="VI" URL="../Directional Speed Sensors Page.vi"/>
 				<Item Name="Knock Sensor Page - Multi FPGA.vi" Type="VI" URL="../Knock Sensor Page - Multi FPGA.vi"/>
-				<Item Name="Knock Sensor Page Wrapper.vi" Type="VI" URL="../Knock Sensor Page Wrapper.vi"/>
-				<Item Name="Knock Sensor Page.vi" Type="VI" URL="../Knock Sensor Page.vi"/>
 				<Item Name="Knock Sensors Page - Multi FPGA.vi" Type="VI" URL="../Knock Sensors Page - Multi FPGA.vi"/>
-				<Item Name="Knock Sensors Page Wrapper.vi" Type="VI" URL="../Knock Sensors Page Wrapper.vi"/>
-				<Item Name="Knock Sensors Page.vi" Type="VI" URL="../Knock Sensors Page.vi"/>
 				<Item Name="Main Page - Multi FPGA.vi" Type="VI" URL="../Main Page - Multi FPGA.vi"/>
-				<Item Name="Main Page Wrapper.vi" Type="VI" URL="../Main Page Wrapper.vi"/>
-				<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 				<Item Name="RIO Page.vi" Type="VI" URL="../RIO Page.vi"/>
 				<Item Name="Timing Measurement Page - Multi FPGA.vi" Type="VI" URL="../Timing Measurement Page - Multi FPGA.vi"/>
-				<Item Name="Timing Measurement Page Wrapper.vi" Type="VI" URL="../Timing Measurement Page Wrapper.vi"/>
-				<Item Name="Timing Measurement Page.vi" Type="VI" URL="../Timing Measurement Page.vi"/>
 				<Item Name="Timing Page - Multi FPGA.vi" Type="VI" URL="../Timing Page - Multi FPGA.vi"/>
-				<Item Name="Timing Page Wrapper.vi" Type="VI" URL="../Timing Page Wrapper.vi"/>
-				<Item Name="Timing Page.vi" Type="VI" URL="../Timing Page.vi"/>
 			</Item>
 			<Item Name="Mutation" Type="Folder">
 				<Item Name="Mutate 1.1.1.vi" Type="VI" URL="../Mutate 1.1.1.vi"/>
@@ -191,8 +171,6 @@
 			<Item Name="EnableDisable - Right Click.vi" Type="VI" URL="../EnableDisable - Right Click.vi"/>
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
 			<Item Name="Main On Compile Action VI - Multi FPGA.vi" Type="VI" URL="../Main On Compile Action VI - Multi FPGA.vi"/>
-			<Item Name="Main On Compile Action VI Wrapper.vi" Type="VI" URL="../Main On Compile Action VI Wrapper.vi"/>
-			<Item Name="Main On Compile Action VI.vi" Type="VI" URL="../Main On Compile Action VI.vi"/>
 			<Item Name="Main On Load Action VI.vi" Type="VI" URL="../Main On Load Action VI.vi"/>
 		</Item>
 		<Item Name="Glyphs" Type="Folder">
