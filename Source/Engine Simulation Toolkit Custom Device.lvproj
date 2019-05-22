@@ -43,8 +43,9 @@
 			</Item>
 			<Item Name="Unit" Type="Folder">
 				<Item Name="Bitfile Parsing Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Bitfile Parsing Test Case/Bitfile Parsing Test Case.lvclass"/>
-				<Item Name="Scripting API Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Scripting API Test Case/Scripting API Test Case.lvclass"/>
+				<Item Name="Code Compliance Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Code Compliance Test Case/Code Compliance Test Case.lvclass"/>
 				<Item Name="Mutation Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Mutation Test Case/Mutation Test Case.lvclass"/>
+				<Item Name="Scripting API Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Scripting API Test Case/Scripting API Test Case.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Utility" Type="Folder">
