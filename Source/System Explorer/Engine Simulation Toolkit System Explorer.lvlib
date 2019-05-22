@@ -37,25 +37,22 @@
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Bitfile Parsing" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
-				<Item Name="Parse Bitfile EST Clusters - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile EST Clusters - Multi FPGA.vi"/>
 				<Item Name="Parse EST Clusters into EST IP - Multi FPGA.vi" Type="VI" URL="../Parse EST Clusters into EST IP - Multi FPGA.vi"/>
 				<Item Name="Bitfile EST Interfaces.vi" Type="VI" URL="../Bitfile EST Interfaces.vi"/>
 				<Item Name="EST Version string to Enum.vi" Type="VI" URL="../EST Version string to Enum.vi"/>
 				<Item Name="Get EST Lib Version from Bitfile.vi" Type="VI" URL="../Get EST Lib Version from Bitfile.vi"/>
 				<Item Name="Parse Bitfile EST Clusters.vi" Type="VI" URL="../Parse Bitfile EST Clusters.vi"/>
-				<Item Name="Parse EST Clusters into EST IP.vi" Type="VI" URL="../Parse EST Clusters into EST IP.vi"/>
 				<Item Name="String Array Property.ctl" Type="VI" URL="../String Array Property.ctl"/>
 				<Item Name="Write String Properties.vi" Type="VI" URL="../Write String Properties.vi"/>
 			</Item>
-			<Item Name="Parse Bitfile for EST IP.vi" Type="VI" URL="../Parse Bitfile for EST IP.vi"/>
 			<Item Name="Parse Bitfile for EST IP - Multi FPGA.vi" Type="VI" URL="../Parse Bitfile for EST IP - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Compile" Type="Folder">
 			<Item Name="Analog Replay" Type="Folder">
-				<Item Name="Compile Analog Replay 1.0 Data.vi" Type="VI" URL="../Compile Analog Replay 1.0 Data.vi"/>
+				<Item Name="Compile Analog Replay 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Analog Replay 1.0 Data - Multi FPGA.vi"/>
 				<Item Name="Compile Analog Replay Channels.vi" Type="VI" URL="../Compile Analog Replay Channels.vi"/>
 				<Item Name="Compile Analog Replay Voltage Scaling.vi" Type="VI" URL="../Compile Analog Replay Voltage Scaling.vi"/>
-				<Item Name="Compile Unused Analog Replays.vi" Type="VI" URL="../Compile Unused Analog Replays.vi"/>
+				<Item Name="Compile Unused Analog Replays - Multi FPGA.vi" Type="VI" URL="../Compile Unused Analog Replays - Multi FPGA.vi"/>
 				<Item Name="Detect Zero Crossing pt by pt.vi" Type="VI" URL="../Detect Zero Crossing pt by pt.vi"/>
 				<Item Name="Get One VR Crank Revolution Data.vi" Type="VI" URL="../Get One VR Crank Revolution Data.vi"/>
 				<Item Name="Get Replay Data From File.vi" Type="VI" URL="../Get Replay Data From File.vi"/>
@@ -64,75 +61,61 @@
 				<Item Name="Scale Replay DBL Data to DAC Codes.vi" Type="VI" URL="../Scale Replay DBL Data to DAC Codes.vi"/>
 				<Item Name="Scale Scalar DBL AO Value to I16.vi" Type="VI" URL="../Scale Scalar DBL AO Value to I16.vi"/>
 				<Item Name="Select Data Subset From Loaded Data.vi" Type="VI" URL="../Select Data Subset From Loaded Data.vi"/>
-				<Item Name="Compile Unused Analog Replays - Multi FPGA.vi" Type="VI" URL="../Compile Unused Analog Replays - Multi FPGA.vi"/>
-				<Item Name="Compile Analog Replay 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Analog Replay 1.0 Data - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="APU" Type="Folder">
 				<Item Name="Compile APU 1.0 Data.vi" Type="VI" URL="../Compile APU 1.0 Data.vi"/>
 				<Item Name="Compile APU 1.1 Data.vi" Type="VI" URL="../Compile APU 1.1 Data.vi"/>
-				<Item Name="Compile APU 1.3 Data.vi" Type="VI" URL="../Compile APU 1.3 Data.vi"/>
-				<Item Name="Cycle Angle to Crank U16 and Cycle Count.vi" Type="VI" URL="../Cycle Angle to Crank U16 and Cycle Count.vi"/>
 				<Item Name="Compile APU 1.3 Data - Multi FPGA.vi" Type="VI" URL="../Compile APU 1.3 Data - Multi FPGA.vi"/>
 				<Item Name="Compile APU 1.4 Data.vi" Type="VI" URL="../Compile APU 1.4 Data.vi"/>
+				<Item Name="Cycle Angle to Crank U16 and Cycle Count.vi" Type="VI" URL="../Cycle Angle to Crank U16 and Cycle Count.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
 				<Item Name="Compile Digital Pattern Gen 1.0 Data.vi" Type="VI" URL="../Compile Digital Pattern Gen 1.0 Data.vi"/>
-				<Item Name="Compile Digital Pattern Gen 1.3 Data.vi" Type="VI" URL="../Compile Digital Pattern Gen 1.3 Data.vi"/>
-				<Item Name="Compile Unused Digital Pattern Gens.vi" Type="VI" URL="../Compile Unused Digital Pattern Gens.vi"/>
+				<Item Name="Compile Digital Pattern Gen 1.3 Data - Multi FPGA.vi" Type="VI" URL="../Compile Digital Pattern Gen 1.3 Data - Multi FPGA.vi"/>
+				<Item Name="Compile Unused Digital Pattern Gens - Multi FPGA.vi" Type="VI" URL="../Compile Unused Digital Pattern Gens - Multi FPGA.vi"/>
 				<Item Name="Find Digital Pattern Events.vi" Type="VI" URL="../Find Digital Pattern Events.vi"/>
 				<Item Name="Get Digital Pattern.vi" Type="VI" URL="../Get Digital Pattern.vi"/>
-				<Item Name="Get Digital Patterns.vi" Type="VI" URL="../Get Digital Patterns.vi"/>
-				<Item Name="Process Digital Pattern.vi" Type="VI" URL="../Process Digital Pattern.vi"/>
 				<Item Name="Get Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Get Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Get Digital Patterns.vi" Type="VI" URL="../Get Digital Patterns.vi"/>
 				<Item Name="Get Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Get Digital Patterns - Multi FPGA.vi"/>
-				<Item Name="Compile Unused Digital Pattern Gens - Multi FPGA.vi" Type="VI" URL="../Compile Unused Digital Pattern Gens - Multi FPGA.vi"/>
-				<Item Name="Compile Digital Pattern Gen 1.3 Data - Multi FPGA.vi" Type="VI" URL="../Compile Digital Pattern Gen 1.3 Data - Multi FPGA.vi"/>
+				<Item Name="Process Digital Pattern.vi" Type="VI" URL="../Process Digital Pattern.vi"/>
 			</Item>
 			<Item Name="Directional Speed" Type="Folder">
-				<Item Name="Compile Directional Speed 1.0 Data.vi" Type="VI" URL="../Compile Directional Speed 1.0 Data.vi"/>
+				<Item Name="Compile Directional Speed 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Directional Speed 1.0 Data - Multi FPGA.vi"/>
 				<Item Name="Compile Directional Speed Settings.vi" Type="VI" URL="../Compile Directional Speed Settings.vi"/>
-				<Item Name="Compile Unused Directional Speeds.vi" Type="VI" URL="../Compile Unused Directional Speeds.vi"/>
+				<Item Name="Compile Unused Directional Speeds - Multi FPGA.vi" Type="VI" URL="../Compile Unused Directional Speeds - Multi FPGA.vi"/>
 				<Item Name="Custom wrapped 10 bit counter.vi" Type="VI" URL="../Custom wrapped 10 bit counter.vi"/>
 				<Item Name="Throw -8716 error.vi" Type="VI" URL="../Throw -8716 error.vi"/>
 				<Item Name="Throw -8717 error.vi" Type="VI" URL="../Throw -8717 error.vi"/>
-				<Item Name="Compile Directional Speed 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Directional Speed 1.0 Data - Multi FPGA.vi"/>
-				<Item Name="Compile Unused Directional Speeds - Multi FPGA.vi" Type="VI" URL="../Compile Unused Directional Speeds - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="Event Timing" Type="Folder">
 				<Item Name="Capture" Type="Folder">
-					<Item Name="Compile Event Capture 1.0 Data.vi" Type="VI" URL="../Compile Event Capture 1.0 Data.vi"/>
-					<Item Name="Get Event Timing Captures.vi" Type="VI" URL="../Get Event Timing Captures.vi"/>
-					<Item Name="Get Event Timing Captures - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Captures - Multi FPGA.vi"/>
 					<Item Name="Compile Event Capture 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Event Capture 1.0 Data - Multi FPGA.vi"/>
+					<Item Name="Get Event Timing Captures - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Captures - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="Measure" Type="Folder">
 					<Item Name="Compile Event Measure 1.0 Data.vi" Type="VI" URL="../Compile Event Measure 1.0 Data.vi"/>
-					<Item Name="Compile Event Measure 1.1 Data.vi" Type="VI" URL="../Compile Event Measure 1.1 Data.vi"/>
-					<Item Name="Get Event Timing Measurements.vi" Type="VI" URL="../Get Event Timing Measurements.vi"/>
-					<Item Name="Throw -8719 error.vi" Type="VI" URL="../Throw -8719 error.vi"/>
-					<Item Name="Get Event Timing Measurements - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Measurements - Multi FPGA.vi"/>
 					<Item Name="Compile Event Measure 1.1 Data - Multi FPGA.vi" Type="VI" URL="../Compile Event Measure 1.1 Data - Multi FPGA.vi"/>
+					<Item Name="Get Event Timing Measurements.vi" Type="VI" URL="../Get Event Timing Measurements.vi"/>
+					<Item Name="Get Event Timing Measurements - Multi FPGA.vi" Type="VI" URL="../Get Event Timing Measurements - Multi FPGA.vi"/>
+					<Item Name="Throw -8719 error.vi" Type="VI" URL="../Throw -8719 error.vi"/>
 				</Item>
 				<Item Name="Get Event Timing Windows.vi" Type="VI" URL="../Get Event Timing Windows.vi"/>
 				<Item Name="Validate and Coerce Timing Window.vi" Type="VI" URL="../Validate and Coerce Timing Window.vi"/>
 			</Item>
 			<Item Name="Init" Type="Folder">
-				<Item Name="Compile Engine Init.vi" Type="VI" URL="../Compile Engine Init.vi"/>
+				<Item Name="Compile Engine Init - Multi FPGA.vi" Type="VI" URL="../Compile Engine Init - Multi FPGA.vi"/>
 				<Item Name="Throw -8715 error.vi" Type="VI" URL="../Throw -8715 error.vi"/>
 				<Item Name="Throw -8718 error.vi" Type="VI" URL="../Throw -8718 error.vi"/>
-				<Item Name="Compile Engine Init - Multi FPGA.vi" Type="VI" URL="../Compile Engine Init - Multi FPGA.vi"/>
 				<Item Name="Compile FPGA Datum Base.vi" Type="VI" URL="../Compile FPGA Datum Base.vi"/>
 			</Item>
 			<Item Name="Knock" Type="Folder">
 				<Item Name="Cylinder" Type="Folder">
-					<Item Name="Compile Knock Cylinder 1.0 Data.vi" Type="VI" URL="../Compile Knock Cylinder 1.0 Data.vi"/>
-					<Item Name="Get Knock Cylinders.vi" Type="VI" URL="../Get Knock Cylinders.vi"/>
 					<Item Name="Compile Knock Cylinder 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Knock Cylinder 1.0 Data - Multi FPGA.vi"/>
 				</Item>
 				<Item Name="Sensor" Type="Folder">
-					<Item Name="Compile Knock Sensor 1.0 Data.vi" Type="VI" URL="../Compile Knock Sensor 1.0 Data.vi"/>
-					<Item Name="Compile Knock Sensor Freq Scale.vi" Type="VI" URL="../Compile Knock Sensor Freq Scale.vi"/>
 					<Item Name="Compile Knock Sensor 1.0 Data - Multi FPGA.vi" Type="VI" URL="../Compile Knock Sensor 1.0 Data - Multi FPGA.vi"/>
+					<Item Name="Compile Knock Sensor Freq Scale.vi" Type="VI" URL="../Compile Knock Sensor Freq Scale.vi"/>
 				</Item>
 			</Item>
 			<Item Name="Status" Type="Folder">
@@ -211,27 +194,22 @@
 				<Item Name="Get APU Reference.vi" Type="VI" URL="../Get APU Reference.vi"/>
 			</Item>
 			<Item Name="Digital Pattern Gen" Type="Folder">
-				<Item Name="Add Digital Pattern.vi" Type="VI" URL="../Add Digital Pattern.vi"/>
+				<Item Name="Add Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Add Digital Pattern - Multi FPGA.vi"/>
 				<Item Name="Calculate Graph Position Indicators.vi" Type="VI" URL="../Calculate Graph Position Indicators.vi"/>
 				<Item Name="Digital Pattern Debugging UI.vi" Type="VI" URL="../Digital Pattern Debugging UI.vi"/>
 				<Item Name="Digital Pattern Wrap Around Array.vi" Type="VI" URL="../Digital Pattern Wrap Around Array.vi"/>
 				<Item Name="Digital Pattern Wrap Around.vi" Type="VI" URL="../Digital Pattern Wrap Around.vi"/>
 				<Item Name="Expand Digital Pattern.vi" Type="VI" URL="../Expand Digital Pattern.vi"/>
 				<Item Name="Extend Digital Pattern Over Cycle.vi" Type="VI" URL="../Extend Digital Pattern Over Cycle.vi"/>
-				<Item Name="Find Next Available DigPatrn FPGA Resource and Name.vi" Type="VI" URL="../Find Next Available DigPatrn FPGA Resource and Name.vi"/>
+				<Item Name="Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi" Type="VI" URL="../Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi"/>
 				<Item Name="Format Digital Pattern Plot.vi" Type="VI" URL="../Format Digital Pattern Plot.vi"/>
-				<Item Name="Remove Digital Pattern.vi" Type="VI" URL="../Remove Digital Pattern.vi"/>
-				<Item Name="Rename Digital Pattern.vi" Type="VI" URL="../Rename Digital Pattern.vi"/>
-				<Item Name="Save Digital Patterns.vi" Type="VI" URL="../Save Digital Patterns.vi"/>
+				<Item Name="Remove Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Remove Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Rename Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Rename Digital Pattern - Multi FPGA.vi"/>
+				<Item Name="Save Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Save Digital Patterns - Multi FPGA.vi"/>
 				<Item Name="Sort &amp; Remove Duplicate Edges.vi" Type="VI" URL="../Sort &amp; Remove Duplicate Edges.vi"/>
 				<Item Name="Update Digital Pattern Cursor Controls.vi" Type="VI" URL="../Update Digital Pattern Cursor Controls.vi"/>
 				<Item Name="Update Digital Pattern FPGA Resources.vi" Type="VI" URL="../Update Digital Pattern FPGA Resources.vi"/>
 				<Item Name="Update Digital Pattern Pattern Controls.vi" Type="VI" URL="../Update Digital Pattern Pattern Controls.vi"/>
-				<Item Name="Add Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Add Digital Pattern - Multi FPGA.vi"/>
-				<Item Name="Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi" Type="VI" URL="../Find Next Available DigPatrn FPGA Resource and Name - Multi FPGA.vi"/>
-				<Item Name="Save Digital Patterns - Multi FPGA.vi" Type="VI" URL="../Save Digital Patterns - Multi FPGA.vi"/>
-				<Item Name="Remove Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Remove Digital Pattern - Multi FPGA.vi"/>
-				<Item Name="Rename Digital Pattern - Multi FPGA.vi" Type="VI" URL="../Rename Digital Pattern - Multi FPGA.vi"/>
 				<Item Name="Rename Digital Pattern From FPGA Resource.vi" Type="VI" URL="../Rename Digital Pattern From FPGA Resource.vi"/>
 				<Item Name="Move Digital Pattern to RIO.vi" Type="VI" URL="../Move Digital Pattern to RIO.vi"/>
 				<Item Name="Check Digital Pattern Name Collisions.vi" Type="VI" URL="../Check Digital Pattern Name Collisions.vi"/>
@@ -242,7 +220,6 @@
 			<Item Name="Event Timing" Type="Folder">
 				<Item Name="Check if Window Name Taken.vi" Type="VI" URL="../Check if Window Name Taken.vi"/>
 				<Item Name="Configure Event Timing Capture Dialog.vi" Type="VI" URL="../Configure Event Timing Capture Dialog.vi"/>
-				<Item Name="Configure Event Timing Measurement Dialog.vi" Type="VI" URL="../Configure Event Timing Measurement Dialog.vi"/>
 				<Item Name="Configure Event Timing Measurement Dialog - Multi FPGA.vi" Type="VI" URL="../Configure Event Timing Measurement Dialog - Multi FPGA.vi"/>
 				<Item Name="Configure Window Dialog.vi" Type="VI" URL="../Configure Window Dialog.vi"/>
 				<Item Name="Create Event Timing Capture Tree Layout.vi" Type="VI" URL="../Create Event Timing Capture Tree Layout.vi"/>
@@ -250,12 +227,10 @@
 				<Item Name="Format Event Timing Captures into Table.vi" Type="VI" URL="../Format Event Timing Captures into Table.vi"/>
 				<Item Name="Format Event Timing Measurements into Table.vi" Type="VI" URL="../Format Event Timing Measurements into Table.vi"/>
 				<Item Name="Format Event Timing Windows into Table.vi" Type="VI" URL="../Format Event Timing Windows into Table.vi"/>
-				<Item Name="List Available Captures for Timing Measurement.vi" Type="VI" URL="../List Available Captures for Timing Measurement.vi"/>
 				<Item Name="List Available Captures for Timing Measurement - Multi FPGA.vi" Type="VI" URL="../List Available Captures for Timing Measurement - Multi FPGA.vi"/>
 				<Item Name="New Capture Cluster Constant.vi" Type="VI" URL="../New Capture Cluster Constant.vi"/>
 				<Item Name="New Measurement Cluster Constant.vi" Type="VI" URL="../New Measurement Cluster Constant.vi"/>
 				<Item Name="Set Event Capture Properties.vi" Type="VI" URL="../Set Event Capture Properties.vi"/>
-				<Item Name="Set Event Measurement Properties.vi" Type="VI" URL="../Set Event Measurement Properties.vi"/>
 				<Item Name="Set Event Measurement Properties - Multi FPGA.vi" Type="VI" URL="../Set Event Measurement Properties - Multi FPGA.vi"/>
 				<Item Name="Set Event Timing Windows.vi" Type="VI" URL="../Set Event Timing Windows.vi"/>
 				<Item Name="Suggest new Window Name.vi" Type="VI" URL="../Suggest new Window Name.vi"/>
@@ -266,11 +241,10 @@
 				<Item Name="Create Knock Cylinder Tree Layout.vi" Type="VI" URL="../Create Knock Cylinder Tree Layout.vi"/>
 				<Item Name="Create Knock Sensor.vi" Type="VI" URL="../Create Knock Sensor.vi"/>
 				<Item Name="Format Knock Cylinders into Table.vi" Type="VI" URL="../Format Knock Cylinders into Table.vi"/>
-				<Item Name="List Available Cylinders for Knock Sensor.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor.vi"/>
+				<Item Name="Get Knock Cylinders - Multi FPGA.vi" Type="VI" URL="../Get Knock Cylinders - Multi FPGA.vi"/>
+				<Item Name="List Available Cylinders for Knock Sensor - Multi FPGA.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor - Multi FPGA.vi"/>
 				<Item Name="New Knock Cylinder Cluster Constant.vi" Type="VI" URL="../New Knock Cylinder Cluster Constant.vi"/>
 				<Item Name="Set Knock Cylinder Properties.vi" Type="VI" URL="../Set Knock Cylinder Properties.vi"/>
-				<Item Name="List Available Cylinders for Knock Sensor - Multi FPGA.vi" Type="VI" URL="../List Available Cylinders for Knock Sensor - Multi FPGA.vi"/>
-				<Item Name="Get Knock Cylinders - Multi FPGA.vi" Type="VI" URL="../Get Knock Cylinders - Multi FPGA.vi"/>
 			</Item>
 			<Item Name="String Sort" Type="Folder">
 				<Item Name="Logical String Array Sort.vi" Type="VI" URL="../String Sort/Logical String Array Sort.vi"/>
@@ -281,7 +255,6 @@
 			<Item Name="Check Feature Toggle.vi" Type="VI" URL="../Check Feature Toggle.vi"/>
 			<Item Name="Clear Entire Configuration.vi" Type="VI" URL="../Clear Entire Configuration.vi"/>
 			<Item Name="Create Chans.vi" Type="VI" URL="../Create Chans.vi"/>
-			<Item Name="Create listbox IP text.vi" Type="VI" URL="../Create listbox IP text.vi"/>
 			<Item Name="Create Listbox IP Text - Multi FPGA.vi" Type="VI" URL="../Create Listbox IP Text - Multi FPGA.vi"/>
 			<Item Name="Enable Disable Add Remove buttons.vi" Type="VI" URL="../Enable Disable Add Remove buttons.vi"/>
 			<Item Name="Enable_Disable Controls.vi" Type="VI" URL="../Enable_Disable Controls.vi"/>
@@ -315,9 +288,7 @@
 			<Item Name="Refresh Main Page Listboxes.vi" Type="VI" URL="../Refresh Main Page Listboxes.vi"/>
 		</Item>
 		<Item Name="Refresh" Type="Folder">
-			<Item Name="Refresh FPGA Bitfile.vi" Type="VI" URL="../Refresh FPGA Bitfile.vi"/>
 			<Item Name="Refresh IP Channels.vi" Type="VI" URL="../Refresh IP Channels.vi"/>
-			<Item Name="Refresh FPGA Bitfile Wrapper.vi" Type="VI" URL="../Refresh FPGA Bitfile Wrapper.vi"/>
 			<Item Name="Refresh FPGA Bitfile - Multi FPGA.vi" Type="VI" URL="../Refresh FPGA Bitfile - Multi FPGA.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder">
