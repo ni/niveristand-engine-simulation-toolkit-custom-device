@@ -197,7 +197,6 @@
 		<Item Name="Close FPGA Refs - Multi FPGA.vi" Type="VI" URL="../Close FPGA Refs - Multi FPGA.vi"/>
 		<Item Name="Engine VI Template.vit" Type="VI" URL="../Engine VI Template.vit"/>
 		<Item Name="Execute Engine - Multi FPGA.vi" Type="VI" URL="../Execute Engine - Multi FPGA.vi"/>
-		<Item Name="Execute Engine Wrapper.vi" Type="VI" URL="../Execute Engine Wrapper.vi"/>
 		<Item Name="Init Unused IP - Multi FPGA.vi" Type="VI" URL="../Init Unused IP - Multi FPGA.vi"/>
 		<Item Name="Initialize Engine - Multi FPGA.vi" Type="VI" URL="../Initialize Engine - Multi FPGA.vi"/>
 		<Item Name="Initialize ESTE.vi" Type="VI" URL="../Initialize ESTE.vi"/>
