@@ -59,14 +59,7 @@
 		<Item Name="Engine Simulation Toolkit Shared.lvlib" Type="Library" URL="../Shared/Engine Simulation Toolkit Shared.lvlib"/>
 		<Item Name="Engine Simulation Toolkit System Explorer.lvlib" Type="Library" URL="../System Explorer/Engine Simulation Toolkit System Explorer.lvlib"/>
 		<Item Name="Engine Simulation Toolkit Scripting API.lvlib" Type="Library" URL="../Scripting API/Engine Simulation Toolkit Scripting API.lvlib"/>
-		<Item Name="File Formats.lvlibp" Type="LVLibp" URL="../File Formats.lvlibp">
-			<Item Name="FileFormat.lvclass" Type="LVClass" URL="../File Formats.lvlibp/Parent/FileFormat.lvclass"/>
-			<Item Name="GXML.lvclass" Type="LVClass" URL="../File Formats.lvlibp/GXML/GXML.lvclass"/>
-			<Item Name="Zero Offset and Degree Transitions.lvclass" Type="LVClass" URL="../File Formats.lvlibp/Zero Offset and Degree Transitions/Zero Offset and Degree Transitions.lvclass"/>
-			<Item Name="GXML.lvlib" Type="Library" URL="../File Formats.lvlibp/1abvi3w/vi.lib/NI/GXML/GXML.lvlib"/>
-			<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="../File Formats.lvlibp/1abvi3w/vi.lib/express/express shared/ex_CorrectErrorChain.vi"/>
-			<Item Name="subFile Dialog.vi" Type="VI" URL="../File Formats.lvlibp/1abvi3w/vi.lib/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
-		</Item>
+		<Item Name="File Formats.lvlibp" Type="LVLibp" URL="../File Formats.lvlibp"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Append Path to Root if Relative - Absolute or Relative Path Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Append Path to Root if Relative - Absolute or Relative Path Array__ogtk.vi"/>
@@ -803,6 +796,8 @@
 			<Item Name="VeriStandTestCase.lvclass" Type="LVClass" URL="../../../niveristand-custom-device-testing-tools/VeriStandTestCase/VeriStandTestCase.lvclass"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Parse EST Clusters into EST IP.vi" Type="VI" URL="../System Explorer/Parse EST Clusters into EST IP.vi"/>
+			<Item Name="EST Pattern.ctl" Type="VI" URL="../File Formats.lvlibp/Parent/EST Pattern.ctl"/>
+			<Item Name="FileFormat.lvclass" Type="LVClass" URL="../File Formats.lvlibp/Parent/FileFormat.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Configuration Debug" Type="Source Distribution">
