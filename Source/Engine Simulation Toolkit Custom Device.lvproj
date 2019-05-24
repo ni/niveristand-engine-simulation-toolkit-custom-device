@@ -795,7 +795,6 @@
 			</Item>
 			<Item Name="VeriStandTestCase.lvclass" Type="LVClass" URL="../../../niveristand-custom-device-testing-tools/VeriStandTestCase/VeriStandTestCase.lvclass"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Parse EST Clusters into EST IP.vi" Type="VI" URL="../System Explorer/Parse EST Clusters into EST IP.vi"/>
 			<Item Name="EST Pattern.ctl" Type="VI" URL="../File Formats.lvlibp/Parent/EST Pattern.ctl"/>
 			<Item Name="FileFormat.lvclass" Type="LVClass" URL="../File Formats.lvlibp/Parent/FileFormat.lvclass"/>
 		</Item>
