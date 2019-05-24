@@ -59,7 +59,6 @@
 		<Item Name="Engine Simulation Toolkit Shared.lvlib" Type="Library" URL="../Shared/Engine Simulation Toolkit Shared.lvlib"/>
 		<Item Name="Engine Simulation Toolkit System Explorer.lvlib" Type="Library" URL="../System Explorer/Engine Simulation Toolkit System Explorer.lvlib"/>
 		<Item Name="Engine Simulation Toolkit Scripting API.lvlib" Type="Library" URL="../Scripting API/Engine Simulation Toolkit Scripting API.lvlib"/>
-		<Item Name="features.ini" Type="Document" URL="../features.ini"/>
 		<Item Name="File Formats.lvlibp" Type="LVLibp" URL="../File Formats.lvlibp">
 			<Item Name="FileFormat.lvclass" Type="LVClass" URL="../File Formats.lvlibp/Parent/FileFormat.lvclass"/>
 			<Item Name="GXML.lvclass" Type="LVClass" URL="../File Formats.lvlibp/GXML/GXML.lvclass"/>
@@ -859,7 +858,7 @@
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Source[0].Container.applyProperties" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2E32D7E8-AEDB-4F3F-BD50-0EE433E78F9E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{010A59DA-4FF8-4CFF-AFF5-0FDE19988110}</Property>
 				<Property Name="Source[0].properties[0].type" Type="Str">Run when opened</Property>
 				<Property Name="Source[0].properties[0].value" Type="Bool">false</Property>
 				<Property Name="Source[0].properties[1].type" Type="Str">Allow debugging</Property>
@@ -914,8 +913,7 @@
 				<Property Name="Source[4].preventRename" Type="Bool">true</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/features.ini</Property>
-				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[5].itemID" Type="Ref"></Property>
 				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Utility/Build Rename/VariantType.lvlib/Private/MDTFlavorToTypeEnum.vi</Property>
 				<Property Name="Source[6].newName" Type="Str">_MDTFlavorToTypeEnum.vi</Property>
 				<Property Name="Source[6].type" Type="Str">VI</Property>
