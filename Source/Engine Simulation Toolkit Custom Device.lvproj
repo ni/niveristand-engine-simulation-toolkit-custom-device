@@ -43,8 +43,9 @@
 			</Item>
 			<Item Name="Unit" Type="Folder">
 				<Item Name="Bitfile Parsing Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Bitfile Parsing Test Case/Bitfile Parsing Test Case.lvclass"/>
-				<Item Name="Scripting API Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Scripting API Test Case/Scripting API Test Case.lvclass"/>
+				<Item Name="Code Compliance Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Code Compliance Test Case/Code Compliance Test Case.lvclass"/>
 				<Item Name="Mutation Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Mutation Test Case/Mutation Test Case.lvclass"/>
+				<Item Name="Scripting API Test Case.lvclass" Type="LVClass" URL="../Tests/Unit/Scripting API Test Case/Scripting API Test Case.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Utility" Type="Folder">
@@ -58,7 +59,6 @@
 		<Item Name="Engine Simulation Toolkit Shared.lvlib" Type="Library" URL="../Shared/Engine Simulation Toolkit Shared.lvlib"/>
 		<Item Name="Engine Simulation Toolkit System Explorer.lvlib" Type="Library" URL="../System Explorer/Engine Simulation Toolkit System Explorer.lvlib"/>
 		<Item Name="Engine Simulation Toolkit Scripting API.lvlib" Type="Library" URL="../Scripting API/Engine Simulation Toolkit Scripting API.lvlib"/>
-		<Item Name="features.ini" Type="Document" URL="../features.ini"/>
 		<Item Name="File Formats.lvlibp" Type="LVLibp" URL="../File Formats.lvlibp"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
@@ -761,6 +761,11 @@
 				<Item Name="Waveform Subtype Enum__ogtk__jki_vi_tester.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Waveform Subtype Enum__ogtk__jki_vi_tester.ctl"/>
 				<Item Name="Get Waveform Type Enum from TD__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Get Waveform Type Enum from TD__ogtk__jki_vi_tester.vi"/>
 				<Item Name="Resolve Timestamp Format__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Resolve Timestamp Format__ogtk__jki_vi_tester.vi"/>
+				<Item Name="Create File with Incrementing Suffix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Create File with Incrementing Suffix.vi"/>
+				<Item Name="cfis_Replace Percent Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/cfis_Replace Percent Code.vi"/>
+				<Item Name="cfis_Split File Path Into Three Parts.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/cfis_Split File Path Into Three Parts.vi"/>
+				<Item Name="cfis_Get File Extension Without Changing Case.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/cfis_Get File Extension Without Changing Case.vi"/>
+				<Item Name="cfis_Reverse Scan From String For Integer.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/cfis_Reverse Scan From String For Integer.vi"/>
 			</Item>
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -773,9 +778,6 @@
 			</Item>
 			<Item Name="NI VeriStand - Get Target Operating System.vi" Type="VI" URL="../System Explorer/NI VeriStand - Get Target Operating System.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="VeriStandTestUtilities.lvlib" Type="Library" URL="../../../niveristand-custom-device-testing-tools/VeriStandTestUtilities/VeriStandTestUtilities.lvlib"/>
@@ -850,7 +852,7 @@
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Source[0].Container.applyProperties" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applySaveSettings" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2E32D7E8-AEDB-4F3F-BD50-0EE433E78F9E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{010A59DA-4FF8-4CFF-AFF5-0FDE19988110}</Property>
 				<Property Name="Source[0].properties[0].type" Type="Str">Run when opened</Property>
 				<Property Name="Source[0].properties[0].value" Type="Bool">false</Property>
 				<Property Name="Source[0].properties[1].type" Type="Str">Allow debugging</Property>
@@ -905,8 +907,7 @@
 				<Property Name="Source[4].preventRename" Type="Bool">true</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/My Computer/features.ini</Property>
-				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[5].itemID" Type="Ref"></Property>
 				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Utility/Build Rename/VariantType.lvlib/Private/MDTFlavorToTypeEnum.vi</Property>
 				<Property Name="Source[6].newName" Type="Str">_MDTFlavorToTypeEnum.vi</Property>
 				<Property Name="Source[6].type" Type="Str">VI</Property>
@@ -1669,7 +1670,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/Copy .LLB to NI VeriStand dir.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C4D299BC-5BE7-488F-AEC7-54EE03F87335}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/Engine Simulation Toolkit Engine Linux_x64.llb</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/c/Engine Simulation Toolkit Engine Linux_x64.llb</Property>
@@ -1835,7 +1836,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/Copy .LLB to NI VeriStand dir.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{4FD8D612-B47E-4D5E-AACB-09C9E21F27D7}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/Engine Simulation Toolkit Engine Linux_32_ARM.llb</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/c/Engine Simulation Toolkit Engine Linux_32_ARM.llb</Property>
