@@ -257,121 +257,9 @@
 							</Property>
 							<Property Name="user.CD.Main.Bitfiles">
 								<StringArray>
-									<Elem>RIO0</Elem>
 									<Elem>RIO1</Elem>
+									<Elem>RIO2</Elem>
 								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.Bitfiles.RIO0">
-								<DependentFile Type="Relative" Path="EverythingMultiFPGATest_7858.lvbitx">
-									<Version>1.0</Version>
-									<ForceDownload>false</ForceDownload>
-									<RTDestination>c:\ni-rt\NIVeriStand\Custom Devices\Engine Simulation Toolkit\EverythingMultiFPGATest_7858.lvbitx</RTDestination>
-									<SupportedTarget>All</SupportedTarget>
-									<MD5>54aef3a62642e8d5eb78adcc082b89bc</MD5>
-								</DependentFile>
-							</Property>
-							<Property Name="user.CD.Main.APUs.RIO0">
-								<StringArray>
-									<Elem>apu 1</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.Analog Replays.RIO0">
-								<StringArray>
-									<Elem>replay AO 0</Elem>
-									<Elem>replay AO 1</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.Digital PatGens.RIO0">
-								<StringArray>
-									<Elem>Pattern DIO 0</Elem>
-									<Elem>Pattern DIO 1</Elem>
-									<Elem>Pattern DIO 2</Elem>
-									<Elem>Pattern DIO 3</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.ETiming Caps.RIO0">
-								<StringArray>
-									<Elem>Event DIO 4.Event 1</Elem>
-									<Elem>Event DIO 5.Event 1</Elem>
-									<Elem>Event DIO 6.Event 1</Elem>
-									<Elem>Event DIO 7.Event 1</Elem>
-									<Elem>Event DIO 8.Event 1</Elem>
-									<Elem>Event DIO 9.Event 1</Elem>
-									<Elem>Multi Event DIO 10.Event 1</Elem>
-									<Elem>Multi Event DIO 10.Event 2</Elem>
-									<Elem>Multi Event DIO 10.Event 3</Elem>
-									<Elem>Multi Event DIO 10.Event 4</Elem>
-									<Elem>Multi Event DIO 11.Event 1</Elem>
-									<Elem>Multi Event DIO 11.Event 2</Elem>
-									<Elem>Multi Event DIO 11.Event 3</Elem>
-									<Elem>Multi Event DIO 11.Event 4</Elem>
-									<Elem>Multi Event DIO 12.Event 1</Elem>
-									<Elem>Multi Event DIO 12.Event 2</Elem>
-									<Elem>Multi Event DIO 12.Event 3</Elem>
-									<Elem>Multi Event DIO 12.Event 4</Elem>
-									<Elem>Multi Event DIO 13.Event 1</Elem>
-									<Elem>Multi Event DIO 13.Event 2</Elem>
-									<Elem>Multi Event DIO 13.Event 3</Elem>
-									<Elem>Multi Event DIO 13.Event 4</Elem>
-									<Elem>Multi Event DIO 14.Event 1</Elem>
-									<Elem>Multi Event DIO 14.Event 2</Elem>
-									<Elem>Multi Event DIO 14.Event 3</Elem>
-									<Elem>Multi Event DIO 14.Event 4</Elem>
-									<Elem>Multi Event DIO 15.Event 1</Elem>
-									<Elem>Multi Event DIO 15.Event 2</Elem>
-									<Elem>Multi Event DIO 15.Event 3</Elem>
-									<Elem>Multi Event DIO 15.Event 4</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.ETiming Meas.RIO0">
-								<StringArray>
-									<Elem>Event DIO 4</Elem>
-									<Elem>Event DIO 5</Elem>
-									<Elem>Event DIO 6</Elem>
-									<Elem>Event DIO 7</Elem>
-									<Elem>Event DIO 8</Elem>
-									<Elem>Event DIO 9</Elem>
-									<Elem>Multi Event DIO 10</Elem>
-									<Elem>Multi Event DIO 11</Elem>
-									<Elem>Multi Event DIO 12</Elem>
-									<Elem>Multi Event DIO 13</Elem>
-									<Elem>Multi Event DIO 14</Elem>
-									<Elem>Multi Event DIO 15</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.Knock Cylinder.RIO0">
-								<StringArray>
-									<Elem>Knock AO 2.Cylinder 1</Elem>
-									<Elem>Knock AO 2.Cylinder 2</Elem>
-									<Elem>Knock AO 2.Cylinder 3</Elem>
-									<Elem>Knock AO 2.Cylinder 4</Elem>
-									<Elem>Knock AO 2.Cylinder 5</Elem>
-									<Elem>Knock AO 2.Cylinder 6</Elem>
-									<Elem>Knock AO 3.Cylinder 1</Elem>
-									<Elem>Knock AO 3.Cylinder 2</Elem>
-									<Elem>Knock AO 3.Cylinder 3</Elem>
-									<Elem>Knock AO 3.Cylinder 4</Elem>
-									<Elem>Knock AO 3.Cylinder 5</Elem>
-									<Elem>Knock AO 3.Cylinder 6</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.Knock Sensor.RIO0">
-								<StringArray>
-									<Elem>Knock AO 2</Elem>
-									<Elem>Knock AO 3</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.DirSpeed Sensor.RIO0">
-								<StringArray>
-									<Elem>Dir Speed DIO0</Elem>
-									<Elem>Dir Speed DIO1</Elem>
-								</StringArray>
-							</Property>
-							<Property Name="user.CD.Main.bitfile EPS version.RIO0">
-								<String>1.4.0</String>
-							</Property>
-							<Property Name="user.CD.Main.Master RIO Device">
-								<String>RIO0</String>
 							</Property>
 							<Property Name="user.CD.Main.Bitfiles.RIO1">
 								<DependentFile Type="Relative" Path="EverythingMultiFPGATest_7858.lvbitx">
@@ -480,6 +368,118 @@
 								</StringArray>
 							</Property>
 							<Property Name="user.CD.Main.bitfile EPS version.RIO1">
+								<String>1.4.0</String>
+							</Property>
+							<Property Name="user.CD.Main.Master RIO Device">
+								<String>RIO1</String>
+							</Property>
+							<Property Name="user.CD.Main.Bitfiles.RIO2">
+								<DependentFile Type="Relative" Path="EverythingMultiFPGATest_7858.lvbitx">
+									<Version>1.0</Version>
+									<ForceDownload>false</ForceDownload>
+									<RTDestination>c:\ni-rt\NIVeriStand\Custom Devices\Engine Simulation Toolkit\EverythingMultiFPGATest_7858.lvbitx</RTDestination>
+									<SupportedTarget>All</SupportedTarget>
+									<MD5>54aef3a62642e8d5eb78adcc082b89bc</MD5>
+								</DependentFile>
+							</Property>
+							<Property Name="user.CD.Main.APUs.RIO2">
+								<StringArray>
+									<Elem>apu 1</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.Analog Replays.RIO2">
+								<StringArray>
+									<Elem>replay AO 0</Elem>
+									<Elem>replay AO 1</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.Digital PatGens.RIO2">
+								<StringArray>
+									<Elem>Pattern DIO 0</Elem>
+									<Elem>Pattern DIO 1</Elem>
+									<Elem>Pattern DIO 2</Elem>
+									<Elem>Pattern DIO 3</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.ETiming Caps.RIO2">
+								<StringArray>
+									<Elem>Event DIO 4.Event 1</Elem>
+									<Elem>Event DIO 5.Event 1</Elem>
+									<Elem>Event DIO 6.Event 1</Elem>
+									<Elem>Event DIO 7.Event 1</Elem>
+									<Elem>Event DIO 8.Event 1</Elem>
+									<Elem>Event DIO 9.Event 1</Elem>
+									<Elem>Multi Event DIO 10.Event 1</Elem>
+									<Elem>Multi Event DIO 10.Event 2</Elem>
+									<Elem>Multi Event DIO 10.Event 3</Elem>
+									<Elem>Multi Event DIO 10.Event 4</Elem>
+									<Elem>Multi Event DIO 11.Event 1</Elem>
+									<Elem>Multi Event DIO 11.Event 2</Elem>
+									<Elem>Multi Event DIO 11.Event 3</Elem>
+									<Elem>Multi Event DIO 11.Event 4</Elem>
+									<Elem>Multi Event DIO 12.Event 1</Elem>
+									<Elem>Multi Event DIO 12.Event 2</Elem>
+									<Elem>Multi Event DIO 12.Event 3</Elem>
+									<Elem>Multi Event DIO 12.Event 4</Elem>
+									<Elem>Multi Event DIO 13.Event 1</Elem>
+									<Elem>Multi Event DIO 13.Event 2</Elem>
+									<Elem>Multi Event DIO 13.Event 3</Elem>
+									<Elem>Multi Event DIO 13.Event 4</Elem>
+									<Elem>Multi Event DIO 14.Event 1</Elem>
+									<Elem>Multi Event DIO 14.Event 2</Elem>
+									<Elem>Multi Event DIO 14.Event 3</Elem>
+									<Elem>Multi Event DIO 14.Event 4</Elem>
+									<Elem>Multi Event DIO 15.Event 1</Elem>
+									<Elem>Multi Event DIO 15.Event 2</Elem>
+									<Elem>Multi Event DIO 15.Event 3</Elem>
+									<Elem>Multi Event DIO 15.Event 4</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.ETiming Meas.RIO2">
+								<StringArray>
+									<Elem>Event DIO 4</Elem>
+									<Elem>Event DIO 5</Elem>
+									<Elem>Event DIO 6</Elem>
+									<Elem>Event DIO 7</Elem>
+									<Elem>Event DIO 8</Elem>
+									<Elem>Event DIO 9</Elem>
+									<Elem>Multi Event DIO 10</Elem>
+									<Elem>Multi Event DIO 11</Elem>
+									<Elem>Multi Event DIO 12</Elem>
+									<Elem>Multi Event DIO 13</Elem>
+									<Elem>Multi Event DIO 14</Elem>
+									<Elem>Multi Event DIO 15</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.Knock Cylinder.RIO2">
+								<StringArray>
+									<Elem>Knock AO 2.Cylinder 1</Elem>
+									<Elem>Knock AO 2.Cylinder 2</Elem>
+									<Elem>Knock AO 2.Cylinder 3</Elem>
+									<Elem>Knock AO 2.Cylinder 4</Elem>
+									<Elem>Knock AO 2.Cylinder 5</Elem>
+									<Elem>Knock AO 2.Cylinder 6</Elem>
+									<Elem>Knock AO 3.Cylinder 1</Elem>
+									<Elem>Knock AO 3.Cylinder 2</Elem>
+									<Elem>Knock AO 3.Cylinder 3</Elem>
+									<Elem>Knock AO 3.Cylinder 4</Elem>
+									<Elem>Knock AO 3.Cylinder 5</Elem>
+									<Elem>Knock AO 3.Cylinder 6</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.Knock Sensor.RIO2">
+								<StringArray>
+									<Elem>Knock AO 2</Elem>
+									<Elem>Knock AO 3</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.DirSpeed Sensor.RIO2">
+								<StringArray>
+									<Elem>Dir Speed DIO0</Elem>
+									<Elem>Dir Speed DIO1</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Main.bitfile EPS version.RIO2">
 								<String>1.4.0</String>
 							</Property>
 						</Properties>
@@ -597,7 +597,7 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 									<Description />
 									<Properties />
 									<Errors />
-									<Section Name="RIO0" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
@@ -657,7 +657,7 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 											</Channel>
 										</Section>
 									</Section>
-									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO2" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
@@ -722,7 +722,7 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 									<Description />
 									<Properties />
 									<Errors />
-									<Section Name="RIO0" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
@@ -812,7 +812,7 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 											</Channel>
 										</Section>
 									</Section>
-									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO2" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
@@ -822,12 +822,12 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 									<Description />
 									<Properties />
 									<Errors />
-									<Section Name="RIO0" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
 									</Section>
-									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO2" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
@@ -837,12 +837,12 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 									<Description />
 									<Properties />
 									<Errors />
-									<Section Name="RIO0" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
 									</Section>
-									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO2" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
@@ -857,12 +857,12 @@ WARNING: This snaps the angle processing unit position and will cause undefined 
 									<Description />
 									<Properties />
 									<Errors />
-									<Section Name="RIO0" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
 									</Section>
-									<Section Name="RIO1" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
+									<Section Name="RIO2" TypeGUID="2F8959F9-157E-42DF-9C28-D393516A36BB">
 										<Description />
 										<Properties />
 										<Errors />
