@@ -4,7 +4,7 @@ The **Engine Simulation Toolkit Custom Device** provides a configuration-based e
 
 ## LabVIEW Version
 
-LabVIEW 2015 SP1
+LabVIEW 2017
 
 ## Dependencies
 
