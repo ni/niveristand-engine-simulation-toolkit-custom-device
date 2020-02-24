@@ -53,7 +53,7 @@
 				<Property Name="Destination[1].path" Type="Path">..</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{552D2550-70E3-4AD9-A2EF-70E94651E1F2}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9CDFEF33-2014-423B-83EE-192EFE3FE9B9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/File Formats.lvlib</Property>
@@ -71,6 +71,7 @@
 				<Property Name="TgtF_productName" Type="Str">File Formats</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{4D44384A-B4C6-4418-80AC-AB3DAA9F9A71}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">File Formats.lvlibp</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
 	</Item>
