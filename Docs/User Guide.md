@@ -14,7 +14,17 @@ The FPGA bitfile is responsible for generating sensor simulations and responding
 
 ![APU Diagram](Support/APU%20Diagram.png)
 
+### Configuration
+
+Components contained in the bitfile are added to the system definition by clicking the section in the System Explorer tree, selecting the name of the item and clicking the **Add** button. A new section and corresponding channels are added to the system definition.
+
+An example of an added _Analog Replay_ component configuration is shown below.
+
+![Analog Replay](Support/Analog%20Replay.png)
+
 ### Custom Device Components
+
+There are several possible components that can be configured for the Engine Simulation Toolkit. Depending on the items included in the bitfile, the following features are available for configuration.
 
 <table>
     <tbody>
@@ -96,6 +106,8 @@ The FPGA bitfile is responsible for generating sensor simulations and responding
 
 ### Detailed Specifications
 
+The following table lists the specifications for each of the components in the Engine Simulation Toolkit.
+
 <table>
     <tbody>
         <tr>
@@ -163,6 +175,10 @@ The FPGA bitfile is responsible for generating sensor simulations and responding
 </table>
 
 ## References
+
+[Engine Simulation Toolkit FPGA IP](https://github.com/ni/niveristand-engine-simulation-toolkit-fpga-ip)
+
+[Using Simulation Models With VeriStand](https://www.ni.com/en-us/support/documentation/supplemental/11/using-simulation-models-with-ni-veristand.html)
 
 [Legacy Release Notes](https://forums.ni.com/t5/NI-VeriStand-Add-Ons-Documents/NI-Engine-Simulation-Toolkit-for-NI-VeriStand/ta-p/3520878)
 
