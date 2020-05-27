@@ -1,6 +1,6 @@
 Package: ni-engine-simulation-veristand-{veristand_version}-support
 Version: {nipkg_version}
-Architecture: windows_all
+Architecture: windows_x64
 Maintainer: National Instruments <support@ni.com>
 XB-Plugin: file
 Description: Provides support for the Engine Simulation Toolkit custom device for NI VeriStand {veristand_version}.
