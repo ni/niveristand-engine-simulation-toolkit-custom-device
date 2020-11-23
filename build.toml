@@ -39,3 +39,6 @@ build_spec = 'Scripting API'
 type = 'nipkg'
 payload_dir = 'Built'
 install_destination = 'documents\National Instruments\NI VeriStand {veristand_version}\Custom Devices'
+
+[notification]
+type = 'teams'
