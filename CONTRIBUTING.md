@@ -42,5 +42,5 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
 
 (taken from [developercertificate.org](https://developercertificate.org/))
 
-See [LICENSE](https://github.com/ni/niveristand-engine-simulation-toolkit-custom-device/blob/master/LICENSE)
+See [LICENSE](https://github.com/ni/niveristand-engine-simulation-toolkit-custom-device/blob/main/LICENSE)
 for details about how niveristand-engine-simulation-toolkit-custom-device is licensed.
