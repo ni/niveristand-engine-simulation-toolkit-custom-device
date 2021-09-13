@@ -2,8 +2,8 @@
 <CustomDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Custom Device.xsd">
 	<XSDVersion Major="2010" Minor="0" Fix="0" Build="0" />
 	<AddMenu>
-		<eng>National Instruments::Engine Simulation Toolkit</eng>
-		<loc>National Instruments::Engine Simulation Toolkit</loc>
+		<eng>NI::Engine Simulation Toolkit</eng>
+		<loc>NI::Engine Simulation Toolkit</loc>
 	</AddMenu>
 	<Version>1.4.0</Version>
 	<Type>Asynchronous</Type>
