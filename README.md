@@ -2,26 +2,34 @@
 
 The **Engine Simulation Toolkit Custom Device** provides a configuration-based experience for validating engine control units (ECUs).
 
-## LabVIEW Version
+## Using the Custom Device
+
+- Download the latest release package from the [Releases page](https://github.com/ni/niveristand-engine-simulation-toolkit-custom-device/releases).
+- See the [User Guide](Docs/User%20Guide.md) for a walkthrough of using the Custom Device.
+
+## LabVIEW Source Code Version
 
 LabVIEW 2019
 
 ## Dependencies
 
-Build the packed library in the File Format.lvproj first (Source\File Format Classes)
+### Running the custom device
 
-Requires the [LabVIEW FPGA Advanced Session Resources](https://decibel.ni.com/content/docs/DOC-35574)
+- [VeriStand 2019 or later](https://www.ni.com/en-us/support/downloads/software-products/download.veristand.html)
 
-OpenG Array Library 4.1.1.14 (Or Later)
+### Developing or building from source
 
-OpenG Error Library 4.2.0.23 (Or Later)
-
-OpenG Array Library 4.2.0.21 (Or Later)
-
-NI GXML 1.4.1.7 (Or Later)
-
-LabVIEW .ini token "NI_AppBuilder_SDist_ExcludeEditTime=True"
-This prevents the build from including edit time dependencies that are not required at run time for a given target. Without this token, some custom devices will not build.
+- [LabVIEW 2019 or later](https://www.ni.com/en-us/support/downloads/software-products/download.labview.html)
+- [LabVIEW Real-Time Module](https://www.ni.com/en-us/support/downloads/software-products/download.labview-real-time-module.html)
+- [LabVIEW FPGA Module](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-module.html)
+- [NI R Series Multifunction RIO](https://www.ni.com/en-us/support/downloads/drivers/download.ni-r-series-multifunction-rio.html#442612)
+- LabVIEW FPGA Advanced Session Resources
+  - For driver versions older than 21.0, find the download on [NI Labs Toolkits](https://forums.ni.com/t5/NI-Labs-Toolkits/LabVIEW-FPGA-Advanced-Session-Resources/ta-p/3500447?profile.language=en)
+  - For R Series device driver versions 21.0 and later, this library is included with the installer
+- [VeriStand Custom Device Development Tools](https://github.com/ni/niveristand-custom-device-development-tools)
+  - Install the latest package from the [release page](https://github.com/ni/niveristand-custom-device-development-tools/releases)
+- [VeriStand Custom Device Testing Tools](https://github.com/ni/niveristand-custom-device-testing-tools)
+  - To link correctly, this repository should be cloned as source to the same directory level as this repository
 
 ## Git History & Rebasing Policy
 Branch rebasing and other history modifications will be listed here, with several notable exceptions:
