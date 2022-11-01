@@ -8,6 +8,10 @@ path = 'Source\Engine Simulation Toolkit Custom Device.lvproj'
 [projects.file_format]
 path = 'Source\File Format Classes\FileFormat.lvproj'
 
+[[codegen.steps]]
+name = 'Clear Compile Cache'
+type = 'lvClearCache'
+
 [[build.steps]]
 name = 'File Format Library'
 type = 'lvBuildSpec'
