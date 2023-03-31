@@ -1,0 +1,56 @@
+trigger:
+  batch: true
+  branches:
+    include:
+      - main
+      - release/*
+
+resources:
+  repositories:
+    - repository: niveristand-custom-device-build-tools
+      type:       github
+      ref:        main
+      endpoint:   nivs-custom-devices
+      name:       ni/niveristand-custom-device-build-tools
+
+stages:
+  - template: azure-templates/stages.yml@niveristand-custom-device-build-tools
+    parameters:
+      lvVersionsToBuild:
+        - version: '2020'
+          bitness: '32bit'
+        - version: '2021'
+          bitness: '64bit'
+        - version: '2023'
+          bitness: '64bit'
+
+      buildSteps:
+        - projectLocation: 'Source\File Format Classes\FileFormat.lvproj'
+          buildOperation: 'ExecuteBuildSpec'
+          target: 'My Computer'
+          buildSpec: 'File Formats'
+
+        - projectLocation: 'Source\Engine Simulation Toolkit Custom Device.lvproj'
+          buildOperation: 'ExecuteBuildSpec'
+          target: 'My Computer'
+          buildSpec: 'Configuration Release'
+
+        - projectLocation: 'Source\Engine Simulation Toolkit Custom Device.lvproj'
+          buildOperation: 'ExecuteBuildSpecAllTargets'
+          target: 'All'
+          buildSpec: 'Engine Release'
+
+        - projectLocation: 'Source\Engine Simulation Toolkit Custom Device.lvproj'
+          buildOperation: 'ExecuteBuildSpec'
+          target: 'My Computer'
+          buildSpec: 'Scripting API'
+
+      releaseVersion: '23.3.0'
+      buildOutputLocation: 'Built'
+      archiveLocation: '\\nirvana\Measurements\VeriStandAddons\engine_sim_tk_custom_device'
+
+      packages:
+        - controlFileName: 'control'
+          payloadMaps:
+            - installLocation: 'documents\National Instruments\NI VeriStand $(lvVersion)\Custom Devices'
+              payloadLocation: 'Built'
