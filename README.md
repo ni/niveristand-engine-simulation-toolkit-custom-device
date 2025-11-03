@@ -9,7 +9,7 @@ The **Engine Simulation Toolkit Custom Device** provides a configuration-based e
 
 ## LabVIEW Source Code Version
 
-LabVIEW 2020
+LabVIEW 2024
 
 ## Dependencies
 
