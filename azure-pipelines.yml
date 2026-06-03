@@ -45,7 +45,7 @@ stages:
           target: 'My Computer'
           buildSpec: 'Scripting API'
 
-      releaseVersion: '26.0.0'
+      releaseVersion: '26.5.0'
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\engine_sim_tk_custom_device'
 
