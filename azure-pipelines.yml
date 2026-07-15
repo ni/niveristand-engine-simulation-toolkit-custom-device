@@ -5,13 +5,17 @@ trigger:
       - main
       - release/*
 
+variables:
+  - name: ConvertNetCore
+    value: false
+
 resources:
   repositories:
     - repository: niveristand-custom-device-build-tools
-      type:       github
-      ref:        main
-      endpoint:   nivs-custom-devices
-      name:       ni/niveristand-custom-device-build-tools
+      type: github
+      ref: main
+      endpoint: nivs-custom-devices
+      name: ni/niveristand-custom-device-build-tools
 
 stages:
   - template: azure-templates/stages.yml@niveristand-custom-device-build-tools
@@ -49,7 +53,6 @@ stages:
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\engine_sim_tk_custom_device'
       repoName: 'niveristand-engine-simulation-toolkit-custom-device'
-      createNetCoreRepo: true
 
       packages:
         - controlFileName: 'control'
