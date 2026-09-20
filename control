@@ -12,7 +12,6 @@ XB-UserVisible: yes
 Section: Add-Ons
 XB-DisplayVersion: {quarterly_display_version}
 XB-DisplayName: NI Engine Simulation Toolkit for VeriStand {veristand_version}
-Depends: ni-veristand-{labview_version} (>= {labview_short_version}.0.0)
 Description-zh-CN: 为NI VeriStand {veristand_version}提供Engine Simulation Toolkit自定义设备支持.
 XB-DisplayName-zh-CN: NI Engine Simulation Toolkit for VeriStand {veristand_version}
 Description-de: Stellt Unterstützung für das Engine Simulation Toolkit für benutzerdefinierte Geräte für NI VeriStand {veristand_version} bereit.
