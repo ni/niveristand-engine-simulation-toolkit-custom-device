@@ -45,7 +45,7 @@ stages:
       buildOutputLocation: 'Built'
       archiveLocation: '\\nirvana\Measurements\VeriStandAddons\netcore\engine_sim_tk_custom_device'
       repoName: 'niveristand-engine-simulation-toolkit-custom-device'
-      createNetCoreRepo: true
+      createNetCoreRepo: false
 
       packages:
         - controlFileName: 'control'
